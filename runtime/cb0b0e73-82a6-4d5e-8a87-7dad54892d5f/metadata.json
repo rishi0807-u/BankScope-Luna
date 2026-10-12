@@ -1,0 +1,62 @@
+{
+  "name": "workflow-test.csv",
+  "mapping": {
+    "CustomerId": "customer_id",
+    "Country": "country",
+    "Gender": "gender",
+    "Age": "age",
+    "Churn": "churn",
+    "Balance": "balance",
+    "Currency": "currency",
+    "FXToUSD": "fx_to_usd"
+  },
+  "audit": [
+    {
+      "timestamp": "2026-10-12T14:19:23.367890+00:00",
+      "column": "gender",
+      "method": "normalize / validate",
+      "affected": 1,
+      "reason": "Text/null missing: 1; invalid: 0. Invalid values quarantined as missing; raw preserved."
+    },
+    {
+      "timestamp": "2026-10-12T14:19:23.367900+00:00",
+      "column": "age",
+      "method": "normalize / validate",
+      "affected": 1,
+      "reason": "Text/null missing: 1; invalid: 0. Invalid values quarantined as missing; raw preserved."
+    },
+    {
+      "column": "all",
+      "method": "exact duplicate removal",
+      "affected": 0,
+      "reason": "Identical source rows only; conflicting IDs retained.",
+      "timestamp": "2026-10-12T14:19:23.404080+00:00"
+    },
+    {
+      "column": "gender",
+      "method": "unknown",
+      "affected": 1,
+      "reason": "Use Unknown to preserve missingness; mode is available only when majority-category substitution is justified.",
+      "replacement": "Unknown",
+      "timestamp": "2026-10-12T14:19:23.404080+00:00"
+    },
+    {
+      "column": "age",
+      "method": "median",
+      "affected": 1,
+      "reason": "Median is robust to skew/outliers. For discrete fields the result is rounded to a whole value.",
+      "replacement": "35.0",
+      "timestamp": "2026-10-12T14:19:23.404080+00:00"
+    }
+  ],
+  "revision": 1,
+  "synthetic": false,
+  "sha256": "fef4fddf3602b03239a9b16a1c2b625a6d42c2a40b0d45f152359f7c491dc310",
+  "demo": false,
+  "working_numeric_columns": [
+    "age",
+    "churn",
+    "balance",
+    "fx_to_usd"
+  ]
+}

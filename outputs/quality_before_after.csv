@@ -1,0 +1,3 @@
+stage,rows,missing_or_invalid_cells,exact_duplicates,extra_repeated_ids
+Before,10000,2527,200,300
+After,9800,430,0,100

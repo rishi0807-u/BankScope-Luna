@@ -1,0 +1,34 @@
+timestamp,column,method,affected,reason,replacement
+2026-10-12T04:22:24.448258+00:00,gender,normalize / validate,128,Text/null missing: 128; invalid: 0. Invalid values quarantined as missing; raw preserved.,
+2026-10-12T04:22:24.448268+00:00,age,normalize / validate,211,Text/null missing: 152; invalid: 59. Invalid values quarantined as missing; raw preserved.,
+2026-10-12T04:22:24.448271+00:00,tenure,normalize / validate,228,Text/null missing: 155; invalid: 73. Invalid values quarantined as missing; raw preserved.,
+2026-10-12T04:22:24.448273+00:00,credit_score,normalize / validate,219,Text/null missing: 133; invalid: 86. Invalid values quarantined as missing; raw preserved.,
+2026-10-12T04:22:24.448275+00:00,currency,normalize / validate,128,Text/null missing: 128; invalid: 0. Invalid values quarantined as missing; raw preserved.,
+2026-10-12T04:22:24.448281+00:00,balance,normalize / validate,159,Text/null missing: 129; invalid: 30. Invalid values quarantined as missing; raw preserved.,
+2026-10-12T04:22:24.448283+00:00,estimated_salary,normalize / validate,161,Text/null missing: 130; invalid: 31. Invalid values quarantined as missing; raw preserved.,
+2026-10-12T04:22:24.448284+00:00,bitcoin_btc,normalize / validate,176,Text/null missing: 130; invalid: 46. Invalid values quarantined as missing; raw preserved.,
+2026-10-12T04:22:24.448286+00:00,fixed_deposit,normalize / validate,171,Text/null missing: 147; invalid: 24. Invalid values quarantined as missing; raw preserved.,
+2026-10-12T04:22:24.448287+00:00,loan_balance,normalize / validate,165,Text/null missing: 138; invalid: 27. Invalid values quarantined as missing; raw preserved.,
+2026-10-12T04:22:24.448289+00:00,stocks,normalize / validate,174,Text/null missing: 138; invalid: 36. Invalid values quarantined as missing; raw preserved.,
+2026-10-12T04:22:24.448291+00:00,mutual_funds,normalize / validate,186,Text/null missing: 151; invalid: 35. Invalid values quarantined as missing; raw preserved.,
+2026-10-12T04:22:24.448292+00:00,has_bitcoin,normalize / validate,18,Text/null missing: 0; invalid: 18. Invalid values quarantined as missing; raw preserved.,
+2026-10-12T04:22:24.448294+00:00,has_fixed_deposit,normalize / validate,20,Text/null missing: 0; invalid: 20. Invalid values quarantined as missing; raw preserved.,
+2026-10-12T04:22:24.448295+00:00,has_loan,normalize / validate,22,Text/null missing: 0; invalid: 22. Invalid values quarantined as missing; raw preserved.,
+2026-10-12T04:22:24.448296+00:00,credit_card,normalize / validate,20,Text/null missing: 0; invalid: 20. Invalid values quarantined as missing; raw preserved.,
+2026-10-12T04:22:24.448298+00:00,active_member,normalize / validate,24,Text/null missing: 0; invalid: 24. Invalid values quarantined as missing; raw preserved.,
+2026-10-12T04:22:24.448300+00:00,churn,normalize / validate,19,Text/null missing: 0; invalid: 19. Invalid values quarantined as missing; raw preserved.,
+2026-10-12T04:22:24.448301+00:00,industry,normalize / validate,138,Text/null missing: 138; invalid: 0. Invalid values quarantined as missing; raw preserved.,
+2026-10-12T04:22:24.448303+00:00,employment_status,normalize / validate,160,Text/null missing: 160; invalid: 0. Invalid values quarantined as missing; raw preserved.,
+2026-10-12T04:22:31.280729+00:00,all,exact duplicate removal,200,Identical source rows only; conflicting IDs retained.,
+2026-10-12T04:22:31.280729+00:00,gender,unknown,124,Use Unknown to preserve missingness; mode is available only when majority-category substitution is justified.,Unknown
+2026-10-12T04:22:31.280729+00:00,age,median,208,Median is robust to skew/outliers. For discrete fields the result is rounded to a whole value.,52.0
+2026-10-12T04:22:31.280729+00:00,tenure,median,224,Median is robust to skew/outliers. For discrete fields the result is rounded to a whole value.,11.0
+2026-10-12T04:22:31.280729+00:00,credit_score,median,215,Median is robust to skew/outliers. For discrete fields the result is rounded to a whole value.,660.0
+2026-10-12T04:22:31.280729+00:00,balance,group_median,151,"Money is skewed and currencies differ: use the median within each currency, never one pooled local-currency mean. All-missing groups stay missing.",within-currency median
+2026-10-12T04:22:31.280729+00:00,estimated_salary,group_median,156,"Money is skewed and currencies differ: use the median within each currency, never one pooled local-currency mean. All-missing groups stay missing.",within-currency median
+2026-10-12T04:22:31.280729+00:00,fixed_deposit,group_median,167,"Money is skewed and currencies differ: use the median within each currency, never one pooled local-currency mean. All-missing groups stay missing.",within-currency median
+2026-10-12T04:22:31.280729+00:00,loan_balance,group_median,158,"Money is skewed and currencies differ: use the median within each currency, never one pooled local-currency mean. All-missing groups stay missing.",within-currency median
+2026-10-12T04:22:31.280729+00:00,stocks,group_median,165,"Money is skewed and currencies differ: use the median within each currency, never one pooled local-currency mean. All-missing groups stay missing.",within-currency median
+2026-10-12T04:22:31.280729+00:00,mutual_funds,group_median,181,"Money is skewed and currencies differ: use the median within each currency, never one pooled local-currency mean. All-missing groups stay missing.",within-currency median
+2026-10-12T04:22:31.280729+00:00,industry,unknown,135,Use Unknown to preserve missingness; mode is available only when majority-category substitution is justified.,Unknown
+2026-10-12T04:22:31.280729+00:00,employment_status,unknown,158,Use Unknown to preserve missingness; mode is available only when majority-category substitution is justified.,Unknown

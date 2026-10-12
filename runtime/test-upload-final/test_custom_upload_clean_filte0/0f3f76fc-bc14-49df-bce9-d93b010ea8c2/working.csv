@@ -1,0 +1,4 @@
+customer_id,country,gender,reward_points,branch,postal_code
+001,India,Female,10.0,South,00123
+002,United States,Male,20.0,North,00456
+003,Unknown,Unknown,30.0,South,00789

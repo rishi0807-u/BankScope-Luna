@@ -1,0 +1,25 @@
+{
+  "name": "uploaded.csv",
+  "mapping": {
+    "CustomerId": "customer_id",
+    "Age": "age",
+    "Tenure": "tenure"
+  },
+  "audit": [
+    {
+      "column": "age_per_year",
+      "method": "divide",
+      "affected": 2,
+      "reason": "Calculated from age and tenure; source columns preserved."
+    }
+  ],
+  "revision": 1,
+  "synthetic": false,
+  "sha256": "c5509ac4c22978b42481d66acd606c247605f2e65a63e0a6aaf880b516bef06c",
+  "demo": false,
+  "working_numeric_columns": [
+    "age",
+    "tenure",
+    "age_per_year"
+  ]
+}

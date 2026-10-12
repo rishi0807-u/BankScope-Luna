@@ -1,0 +1,12 @@
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.venv
+.git
+.gitignore
+.vscode
+runtime/
+outputs/
+.ipynb_checkpoints/
+*.ipynb

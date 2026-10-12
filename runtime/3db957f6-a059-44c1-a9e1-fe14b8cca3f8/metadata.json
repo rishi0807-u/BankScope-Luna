@@ -1,0 +1,312 @@
+{
+  "name": "banking_70_countries_10000_messy.csv",
+  "mapping": {
+    "CustomerId": "customer_id",
+    "Geography": "country",
+    "Gender": "gender",
+    "Age": "age",
+    "Tenure": "tenure",
+    "CreditScore": "credit_score",
+    "Currency": "currency",
+    "FXToUSD": "fx_to_usd",
+    "Balance": "balance",
+    "EstimatedSalary": "estimated_salary",
+    "BitcoinHoldingsBTC": "bitcoin_btc",
+    "BitcoinPriceUSD": "bitcoin_price_usd",
+    "FixedDepositBalance": "fixed_deposit",
+    "FixedDepositRatePct": "fd_rate_pct",
+    "FixedDepositTermMonths": "fd_term_months",
+    "LoanBalance": "loan_balance",
+    "LoanType": "loan_type",
+    "LoanRatePct": "loan_rate_pct",
+    "StocksBalance": "stocks",
+    "MutualFundsBalance": "mutual_funds",
+    "HasBitcoin": "has_bitcoin",
+    "HasFixedDeposit": "has_fixed_deposit",
+    "HasLoan": "has_loan",
+    "Num Of Products": "products_number",
+    "Has Credit Card": "credit_card",
+    "Is Active Member": "active_member",
+    "Churn": "churn",
+    "Industry": "industry",
+    "EmploymentStatus": "employment_status",
+    "AccountType": "account_type",
+    "BankingChannel": "banking_channel",
+    "RiskTolerance": "risk_tolerance",
+    "SnapshotDate": "snapshot_date",
+    "DataOrigin": "data_origin"
+  },
+  "audit": [
+    {
+      "timestamp": "2026-10-12T14:21:20.178254+00:00",
+      "column": "gender",
+      "method": "normalize / validate",
+      "affected": 128,
+      "reason": "Text/null missing: 128; invalid: 0. Invalid values quarantined as missing; raw preserved."
+    },
+    {
+      "timestamp": "2026-10-12T14:21:20.178262+00:00",
+      "column": "age",
+      "method": "normalize / validate",
+      "affected": 211,
+      "reason": "Text/null missing: 152; invalid: 59. Invalid values quarantined as missing; raw preserved."
+    },
+    {
+      "timestamp": "2026-10-12T14:21:20.178265+00:00",
+      "column": "tenure",
+      "method": "normalize / validate",
+      "affected": 228,
+      "reason": "Text/null missing: 155; invalid: 73. Invalid values quarantined as missing; raw preserved."
+    },
+    {
+      "timestamp": "2026-10-12T14:21:20.178267+00:00",
+      "column": "credit_score",
+      "method": "normalize / validate",
+      "affected": 219,
+      "reason": "Text/null missing: 133; invalid: 86. Invalid values quarantined as missing; raw preserved."
+    },
+    {
+      "timestamp": "2026-10-12T14:21:20.178269+00:00",
+      "column": "currency",
+      "method": "normalize / validate",
+      "affected": 128,
+      "reason": "Text/null missing: 128; invalid: 0. Invalid values quarantined as missing; raw preserved."
+    },
+    {
+      "timestamp": "2026-10-12T14:21:20.178271+00:00",
+      "column": "balance",
+      "method": "normalize / validate",
+      "affected": 159,
+      "reason": "Text/null missing: 129; invalid: 30. Invalid values quarantined as missing; raw preserved."
+    },
+    {
+      "timestamp": "2026-10-12T14:21:20.178273+00:00",
+      "column": "estimated_salary",
+      "method": "normalize / validate",
+      "affected": 161,
+      "reason": "Text/null missing: 130; invalid: 31. Invalid values quarantined as missing; raw preserved."
+    },
+    {
+      "timestamp": "2026-10-12T14:21:20.178274+00:00",
+      "column": "bitcoin_btc",
+      "method": "normalize / validate",
+      "affected": 176,
+      "reason": "Text/null missing: 130; invalid: 46. Invalid values quarantined as missing; raw preserved."
+    },
+    {
+      "timestamp": "2026-10-12T14:21:20.178276+00:00",
+      "column": "fixed_deposit",
+      "method": "normalize / validate",
+      "affected": 171,
+      "reason": "Text/null missing: 147; invalid: 24. Invalid values quarantined as missing; raw preserved."
+    },
+    {
+      "timestamp": "2026-10-12T14:21:20.178277+00:00",
+      "column": "loan_balance",
+      "method": "normalize / validate",
+      "affected": 165,
+      "reason": "Text/null missing: 138; invalid: 27. Invalid values quarantined as missing; raw preserved."
+    },
+    {
+      "timestamp": "2026-10-12T14:21:20.178279+00:00",
+      "column": "stocks",
+      "method": "normalize / validate",
+      "affected": 174,
+      "reason": "Text/null missing: 138; invalid: 36. Invalid values quarantined as missing; raw preserved."
+    },
+    {
+      "timestamp": "2026-10-12T14:21:20.178280+00:00",
+      "column": "mutual_funds",
+      "method": "normalize / validate",
+      "affected": 186,
+      "reason": "Text/null missing: 151; invalid: 35. Invalid values quarantined as missing; raw preserved."
+    },
+    {
+      "timestamp": "2026-10-12T14:21:20.178282+00:00",
+      "column": "has_bitcoin",
+      "method": "normalize / validate",
+      "affected": 18,
+      "reason": "Text/null missing: 0; invalid: 18. Invalid values quarantined as missing; raw preserved."
+    },
+    {
+      "timestamp": "2026-10-12T14:21:20.178283+00:00",
+      "column": "has_fixed_deposit",
+      "method": "normalize / validate",
+      "affected": 20,
+      "reason": "Text/null missing: 0; invalid: 20. Invalid values quarantined as missing; raw preserved."
+    },
+    {
+      "timestamp": "2026-10-12T14:21:20.178285+00:00",
+      "column": "has_loan",
+      "method": "normalize / validate",
+      "affected": 22,
+      "reason": "Text/null missing: 0; invalid: 22. Invalid values quarantined as missing; raw preserved."
+    },
+    {
+      "timestamp": "2026-10-12T14:21:20.178287+00:00",
+      "column": "credit_card",
+      "method": "normalize / validate",
+      "affected": 20,
+      "reason": "Text/null missing: 0; invalid: 20. Invalid values quarantined as missing; raw preserved."
+    },
+    {
+      "timestamp": "2026-10-12T14:21:20.178288+00:00",
+      "column": "active_member",
+      "method": "normalize / validate",
+      "affected": 24,
+      "reason": "Text/null missing: 0; invalid: 24. Invalid values quarantined as missing; raw preserved."
+    },
+    {
+      "timestamp": "2026-10-12T14:21:20.178290+00:00",
+      "column": "churn",
+      "method": "normalize / validate",
+      "affected": 19,
+      "reason": "Text/null missing: 0; invalid: 19. Invalid values quarantined as missing; raw preserved."
+    },
+    {
+      "timestamp": "2026-10-12T14:21:20.178291+00:00",
+      "column": "industry",
+      "method": "normalize / validate",
+      "affected": 138,
+      "reason": "Text/null missing: 138; invalid: 0. Invalid values quarantined as missing; raw preserved."
+    },
+    {
+      "timestamp": "2026-10-12T14:21:20.178293+00:00",
+      "column": "employment_status",
+      "method": "normalize / validate",
+      "affected": 160,
+      "reason": "Text/null missing: 160; invalid: 0. Invalid values quarantined as missing; raw preserved."
+    },
+    {
+      "column": "all",
+      "method": "exact duplicate removal",
+      "affected": 200,
+      "reason": "Identical source rows only; conflicting IDs retained.",
+      "timestamp": "2026-10-12T14:21:25.957456+00:00"
+    },
+    {
+      "column": "gender",
+      "method": "unknown",
+      "affected": 124,
+      "reason": "Use Unknown to preserve missingness; mode is available only when majority-category substitution is justified.",
+      "replacement": "Unknown",
+      "timestamp": "2026-10-12T14:21:25.957456+00:00"
+    },
+    {
+      "column": "age",
+      "method": "median",
+      "affected": 208,
+      "reason": "Median is robust to skew/outliers. For discrete fields the result is rounded to a whole value.",
+      "replacement": "52.0",
+      "timestamp": "2026-10-12T14:21:25.957456+00:00"
+    },
+    {
+      "column": "tenure",
+      "method": "median",
+      "affected": 224,
+      "reason": "Median is robust to skew/outliers. For discrete fields the result is rounded to a whole value.",
+      "replacement": "11.0",
+      "timestamp": "2026-10-12T14:21:25.957456+00:00"
+    },
+    {
+      "column": "credit_score",
+      "method": "median",
+      "affected": 215,
+      "reason": "Median is robust to skew/outliers. For discrete fields the result is rounded to a whole value.",
+      "replacement": "660.0",
+      "timestamp": "2026-10-12T14:21:25.957456+00:00"
+    },
+    {
+      "column": "balance",
+      "method": "group_median",
+      "affected": 151,
+      "reason": "Money is skewed and currencies differ: use the median within each currency, never one pooled local-currency mean. All-missing groups stay missing.",
+      "replacement": "within-currency median",
+      "timestamp": "2026-10-12T14:21:25.957456+00:00"
+    },
+    {
+      "column": "estimated_salary",
+      "method": "group_median",
+      "affected": 156,
+      "reason": "Money is skewed and currencies differ: use the median within each currency, never one pooled local-currency mean. All-missing groups stay missing.",
+      "replacement": "within-currency median",
+      "timestamp": "2026-10-12T14:21:25.957456+00:00"
+    },
+    {
+      "column": "fixed_deposit",
+      "method": "group_median",
+      "affected": 167,
+      "reason": "Money is skewed and currencies differ: use the median within each currency, never one pooled local-currency mean. All-missing groups stay missing.",
+      "replacement": "within-currency median",
+      "timestamp": "2026-10-12T14:21:25.957456+00:00"
+    },
+    {
+      "column": "loan_balance",
+      "method": "group_median",
+      "affected": 158,
+      "reason": "Money is skewed and currencies differ: use the median within each currency, never one pooled local-currency mean. All-missing groups stay missing.",
+      "replacement": "within-currency median",
+      "timestamp": "2026-10-12T14:21:25.957456+00:00"
+    },
+    {
+      "column": "stocks",
+      "method": "group_median",
+      "affected": 165,
+      "reason": "Money is skewed and currencies differ: use the median within each currency, never one pooled local-currency mean. All-missing groups stay missing.",
+      "replacement": "within-currency median",
+      "timestamp": "2026-10-12T14:21:25.957456+00:00"
+    },
+    {
+      "column": "mutual_funds",
+      "method": "group_median",
+      "affected": 181,
+      "reason": "Money is skewed and currencies differ: use the median within each currency, never one pooled local-currency mean. All-missing groups stay missing.",
+      "replacement": "within-currency median",
+      "timestamp": "2026-10-12T14:21:25.957456+00:00"
+    },
+    {
+      "column": "industry",
+      "method": "unknown",
+      "affected": 135,
+      "reason": "Use Unknown to preserve missingness; mode is available only when majority-category substitution is justified.",
+      "replacement": "Unknown",
+      "timestamp": "2026-10-12T14:21:25.957456+00:00"
+    },
+    {
+      "column": "employment_status",
+      "method": "unknown",
+      "affected": 158,
+      "reason": "Use Unknown to preserve missingness; mode is available only when majority-category substitution is justified.",
+      "replacement": "Unknown",
+      "timestamp": "2026-10-12T14:21:25.957456+00:00"
+    }
+  ],
+  "revision": 1,
+  "synthetic": true,
+  "sha256": "90e30f95c797ca3114617e74d0ea6ad9b77fdd6bcf362d86f40fa23b2d4d4249",
+  "demo": false,
+  "working_numeric_columns": [
+    "age",
+    "tenure",
+    "credit_score",
+    "fx_to_usd",
+    "balance",
+    "estimated_salary",
+    "bitcoin_btc",
+    "bitcoin_price_usd",
+    "fixed_deposit",
+    "fd_rate_pct",
+    "fd_term_months",
+    "loan_balance",
+    "loan_rate_pct",
+    "stocks",
+    "mutual_funds",
+    "has_bitcoin",
+    "has_fixed_deposit",
+    "has_loan",
+    "products_number",
+    "credit_card",
+    "active_member",
+    "churn"
+  ]
+}

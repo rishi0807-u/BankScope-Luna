@@ -1,0 +1,4 @@
+CustomerId,Country,Gender,Age,Churn,Balance,Currency,FXToUSD
+001,India,Female,30,0,100,USD,1
+002,France,Male,,1,200,USD,1
+003,India,,40,0,300,USD,1

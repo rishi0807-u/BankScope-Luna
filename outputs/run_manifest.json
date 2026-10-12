@@ -1,0 +1,67 @@
+{
+  "input_sha256": "90e30f95c797ca3114617e74d0ea6ad9b77fdd6bcf362d86f40fa23b2d4d4249",
+  "input_rows": 10000,
+  "output_rows": 9800,
+  "filters": {
+    "categories": {
+      "country": [
+        "India",
+        "United States",
+        "Germany"
+      ]
+    },
+    "ranges": {
+      "age": [
+        25,
+        65
+      ]
+    },
+    "logic": "AND",
+    "search": "",
+    "sort": [
+      {
+        "column": "balance_usd",
+        "ascending": false
+      }
+    ]
+  },
+  "plan": {
+    "customer_id": "leave",
+    "country": "unknown",
+    "gender": "unknown",
+    "age": "median",
+    "tenure": "median",
+    "credit_score": "median",
+    "currency": "leave",
+    "fx_to_usd": "leave",
+    "balance": "group_median",
+    "estimated_salary": "group_median",
+    "bitcoin_btc": "leave",
+    "bitcoin_price_usd": "leave",
+    "fixed_deposit": "group_median",
+    "fd_rate_pct": "leave",
+    "fd_term_months": "leave",
+    "loan_balance": "group_median",
+    "loan_type": "unknown",
+    "loan_rate_pct": "leave",
+    "stocks": "group_median",
+    "mutual_funds": "group_median",
+    "has_bitcoin": "leave",
+    "has_fixed_deposit": "leave",
+    "has_loan": "leave",
+    "products_number": "median",
+    "credit_card": "leave",
+    "active_member": "leave",
+    "churn": "leave",
+    "industry": "unknown",
+    "employment_status": "unknown",
+    "account_type": "unknown",
+    "banking_channel": "unknown",
+    "risk_tolerance": "unknown",
+    "snapshot_date": "leave",
+    "data_origin": "leave"
+  },
+  "synthetic_source": true,
+  "pandas": "2.3.3",
+  "numpy": "2.5.3"
+}

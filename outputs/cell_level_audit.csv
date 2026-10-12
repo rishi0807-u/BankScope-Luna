@@ -1,0 +1,2473 @@
+source_csv_row,customer_id,column,raw_value,typed_value,cleaned_value,imputed
+193,SYN006400,gender,N/A,,Unknown,True
+311,SYN009537,gender, ,,Unknown,True
+314,SYN003984,gender,NaN,,Unknown,True
+540,SYN002802,gender,NaN,,Unknown,True
+691,SYN009005,gender,missing,,Unknown,True
+822,SYN006146,gender,missing,,Unknown,True
+867,SYN006084,gender,null,,Unknown,True
+883,SYN005844,gender, ,,Unknown,True
+1111,SYN008417,gender,N/A,,Unknown,True
+1152,SYN008233,gender,missing,,Unknown,True
+1172,SYN009116,gender,N/A,,Unknown,True
+1194,SYN008876,gender,N/A,,Unknown,True
+1214,SYN002524,gender,NA,,Unknown,True
+1292,SYN006815,gender,,,Unknown,True
+1436,SYN008017,gender,NaN,,Unknown,True
+1530,SYN000791,gender,NaN,,Unknown,True
+1558,SYN008226,gender,,,Unknown,True
+1632,SYN000023,gender,missing,,Unknown,True
+1750,SYN004758,gender,N/A,,Unknown,True
+1804,SYN009296,gender,null,,Unknown,True
+1833,SYN008649,gender,null,,Unknown,True
+1954,SYN005263,gender,N/A,,Unknown,True
+1962,SYN004928,gender,NaN,,Unknown,True
+1964,SYN005178,gender, ,,Unknown,True
+2015,SYN004610,gender,null,,Unknown,True
+2039,SYN007317,gender,missing,,Unknown,True
+2054,SYN008990,gender,,,Unknown,True
+2359,SYN000971,gender,NaN,,Unknown,True
+2428,SYN005590,gender,null,,Unknown,True
+2656,SYN005709,gender,,,Unknown,True
+2674,SYN007178,gender,,,Unknown,True
+2769,SYN007101,gender,missing,,Unknown,True
+2786,SYN009455,gender,N/A,,Unknown,True
+2823,SYN000024,gender,,,Unknown,True
+2881,SYN002973,gender,missing,,Unknown,True
+2922,SYN003038,gender,null,,Unknown,True
+3023,SYN008565,gender,,,Unknown,True
+3054,SYN001342,gender,NA,,Unknown,True
+3190,SYN006178,gender,NA,,Unknown,True
+3202,SYN002715,gender,null,,Unknown,True
+3260,SYN008922,gender,NA,,Unknown,True
+3329,SYN006497,gender,missing,,Unknown,True
+3432,SYN006436,gender,NA,,Unknown,True
+3556,SYN000172,gender,missing,,Unknown,True
+3628,SYN004754,gender,,,Unknown,True
+3887,SYN002431,gender, ,,Unknown,True
+3915,SYN002695,gender,NA,,Unknown,True
+3991,SYN002240,gender,NA,,Unknown,True
+4170,SYN009635,gender,NA,,Unknown,True
+4418,SYN001146,gender,NA,,Unknown,True
+4483,SYN007408,gender, ,,Unknown,True
+4486,SYN008517,gender, ,,Unknown,True
+4696,SYN002839,gender, ,,Unknown,True
+4834,SYN008297,gender, ,,Unknown,True
+4978,SYN001246,gender,missing,,Unknown,True
+4980,SYN002447,gender,NA,,Unknown,True
+4982,SYN008024,gender, ,,Unknown,True
+5009,SYN003073,gender,null,,Unknown,True
+5021,SYN006778,gender,missing,,Unknown,True
+5033,SYN007819,gender,missing,,Unknown,True
+5106,SYN007543,gender,NA,,Unknown,True
+5111,SYN004849,gender,,,Unknown,True
+5299,SYN002326,gender,null,,Unknown,True
+5494,SYN002575,gender, ,,Unknown,True
+5747,SYN005032,gender,missing,,Unknown,True
+5790,SYN001436,gender,NaN,,Unknown,True
+5792,SYN009416,gender,missing,,Unknown,True
+5857,SYN005024,gender,NaN,,Unknown,True
+5884,SYN005188,gender,missing,,Unknown,True
+5987,SYN009645,gender,null,,Unknown,True
+6050,SYN007700,gender,N/A,,Unknown,True
+6118,SYN003091,gender,null,,Unknown,True
+6182,SYN006386,gender,N/A,,Unknown,True
+6269,SYN006460,gender,NaN,,Unknown,True
+6283,SYN004812,gender,,,Unknown,True
+6312,SYN002427,gender,NaN,,Unknown,True
+6340,SYN004320,gender,NA,,Unknown,True
+6556,SYN006269,gender, ,,Unknown,True
+6620,SYN002987,gender,NaN,,Unknown,True
+6676,SYN006837,gender,null,,Unknown,True
+6689,SYN004189,gender,null,,Unknown,True
+6738,SYN001889,gender,missing,,Unknown,True
+6787,SYN008276,gender,NaN,,Unknown,True
+6792,SYN005034,gender,,,Unknown,True
+6811,SYN007293,gender,,,Unknown,True
+6820,SYN007249,gender,NaN,,Unknown,True
+6827,SYN003837,gender,N/A,,Unknown,True
+6941,SYN002832,gender,,,Unknown,True
+6991,SYN002077,gender, ,,Unknown,True
+7111,SYN001133,gender,NA,,Unknown,True
+7298,SYN005467,gender, ,,Unknown,True
+7500,SYN002169,gender, ,,Unknown,True
+7582,SYN006503,gender,NaN,,Unknown,True
+7620,SYN009621,gender,NA,,Unknown,True
+7642,SYN005868,gender,,,Unknown,True
+7657,SYN002539,gender,,,Unknown,True
+7661,SYN003906,gender,NaN,,Unknown,True
+7703,SYN003109,gender,N/A,,Unknown,True
+7772,SYN008235,gender,missing,,Unknown,True
+7861,SYN006038,gender,,,Unknown,True
+7880,SYN006480,gender,N/A,,Unknown,True
+7993,SYN009555,gender,missing,,Unknown,True
+8003,SYN007302,gender,,,Unknown,True
+8037,SYN009063,gender,NaN,,Unknown,True
+8093,SYN008842,gender,,,Unknown,True
+8188,SYN007729,gender,NaN,,Unknown,True
+8266,SYN000161,gender,null,,Unknown,True
+8331,SYN004888,gender,NaN,,Unknown,True
+8343,SYN008451,gender,NA,,Unknown,True
+8347,SYN004798,gender,missing,,Unknown,True
+8503,SYN003917,gender,NA,,Unknown,True
+8561,SYN006755,gender,NaN,,Unknown,True
+8614,SYN003961,gender,,,Unknown,True
+8784,SYN009646,gender,,,Unknown,True
+8813,SYN008360,gender,,,Unknown,True
+8882,SYN005838,gender,N/A,,Unknown,True
+9199,SYN008656,gender,null,,Unknown,True
+9339,SYN000955,gender,NaN,,Unknown,True
+9685,SYN001618,gender,NA,,Unknown,True
+9779,SYN006462,gender,NA,,Unknown,True
+9790,SYN006233,gender, ,,Unknown,True
+9801,SYN006299,gender, ,,Unknown,True
+9821,SYN006635,gender,N/A,,Unknown,True
+9927,SYN000625,gender,NA,,Unknown,True
+4,SYN003648,age,abc,,52.0,True
+55,SYN004372,age,NaN,,52.0,True
+59,SYN004721,age,150,,52.0,True
+85,SYN000323,age, ,,52.0,True
+147,SYN006075,age,,,52.0,True
+167,SYN000880,age,missing,,52.0,True
+201,SYN009566,age,N/A,,52.0,True
+384,SYN001513,age,null,,52.0,True
+427,SYN006034,age,'-5,,52.0,True
+636,SYN007421,age,null,,52.0,True
+670,SYN005487,age, ,,52.0,True
+697,SYN005950,age,220,,52.0,True
+711,SYN002932,age,0,,52.0,True
+727,SYN004203,age,missing,,52.0,True
+795,SYN008802,age,NaN,,52.0,True
+812,SYN005455,age,N/A,,52.0,True
+978,SYN004472,age,0,,52.0,True
+1227,SYN005017,age,150,,52.0,True
+1302,SYN006217,age, ,,52.0,True
+1334,SYN002792,age,150,,52.0,True
+1365,SYN001588,age,,,52.0,True
+1427,SYN006634,age,NA,,52.0,True
+1528,SYN006186,age,NA,,52.0,True
+1542,SYN005980,age,,,52.0,True
+1632,SYN000023,age,null,,52.0,True
+1725,SYN001272,age,220,,52.0,True
+1784,SYN006220,age,NaN,,52.0,True
+1883,SYN000952,age,missing,,52.0,True
+1886,SYN003597,age,NA,,52.0,True
+1917,SYN009190,age,NA,,52.0,True
+2055,SYN001463,age,220,,52.0,True
+2193,SYN009524,age,unknown,,52.0,True
+2210,SYN009231,age,,,52.0,True
+2320,SYN000602,age,null,,52.0,True
+2349,SYN007180,age,null,,52.0,True
+2474,SYN007364,age,NaN,,52.0,True
+2502,SYN003054,age,0,,52.0,True
+2704,SYN002872,age,220,,52.0,True
+2738,SYN001554,age,,,52.0,True
+2759,SYN000466,age,missing,,52.0,True
+2770,SYN004773,age,missing,,52.0,True
+2775,SYN005123,age, ,,52.0,True
+2806,SYN001344,age,N/A,,52.0,True
+2876,SYN002042,age,not recorded,,52.0,True
+2919,SYN007726,age,N/A,,52.0,True
+2935,SYN005115,age,NaN,,52.0,True
+2971,SYN008057,age,not recorded,,52.0,True
+3072,SYN006327,age,missing,,52.0,True
+3146,SYN002257,age,'-5,,52.0,True
+3163,SYN002953,age,,,52.0,True
+3209,SYN009352,age,NA,,52.0,True
+3211,SYN003030,age, ,,52.0,True
+3218,SYN005987,age,,,52.0,True
+3283,SYN006383,age,220,,52.0,True
+3313,SYN000589,age,missing,,52.0,True
+3331,SYN006913,age, ,,52.0,True
+3360,SYN008573,age,NaN,,52.0,True
+3384,SYN002495,age,150,,52.0,True
+3478,SYN005673,age,null,,52.0,True
+3481,SYN007795,age,NA,,52.0,True
+3489,SYN002277,age,abc,,52.0,True
+3530,SYN001401,age,,,52.0,True
+3654,SYN007420,age,null,,52.0,True
+3663,SYN003503,age,NaN,,52.0,True
+3757,SYN006915,age,missing,,52.0,True
+3789,SYN005266,age,missing,,52.0,True
+3830,SYN006139,age,,,52.0,True
+3841,SYN006228,age, ,,52.0,True
+4029,SYN002766,age,NaN,,52.0,True
+4030,SYN005735,age,null,,52.0,True
+4051,SYN004770,age,,,52.0,True
+4069,SYN008818,age,220,,52.0,True
+4091,SYN003518,age,N/A,,52.0,True
+4095,SYN009655,age,N/A,,52.0,True
+4183,SYN009532,age,,,52.0,True
+4202,SYN005370,age,null,,52.0,True
+4211,SYN005286,age,null,,52.0,True
+4350,SYN001901,age,NaN,,52.0,True
+4364,SYN004252,age,NA,,52.0,True
+4373,SYN009111,age,unknown,,52.0,True
+4376,SYN009097,age,null,,52.0,True
+4404,SYN001946,age,missing,,52.0,True
+4418,SYN001146,age,NaN,,52.0,True
+4443,SYN002345,age,N/A,,52.0,True
+4453,SYN005824,age,220,,52.0,True
+4551,SYN006591,age,missing,,52.0,True
+4591,SYN005721,age, ,,52.0,True
+4613,SYN006564,age,'-5,,52.0,True
+4726,SYN005796,age,null,,52.0,True
+4810,SYN007377,age,N/A,,52.0,True
+4839,SYN001168,age,,,52.0,True
+4841,SYN009696,age,NaN,,52.0,True
+4842,SYN007100,age,null,,52.0,True
+4885,SYN004104,age,NA,,52.0,True
+4979,SYN008605,age,missing,,52.0,True
+5015,SYN000755,age,NaN,,52.0,True
+5050,SYN000315,age,,,52.0,True
+5065,SYN000737,age,NaN,,52.0,True
+5070,SYN007583,age,null,,52.0,True
+5140,SYN002744,age,0,,52.0,True
+5160,SYN000154,age,NA,,52.0,True
+5230,SYN001991,age,NaN,,52.0,True
+5232,SYN007220,age,NaN,,52.0,True
+5267,SYN004714,age, ,,52.0,True
+5325,SYN001565,age,,,52.0,True
+5501,SYN005932,age,N/A,,52.0,True
+5508,SYN007785,age,NaN,,52.0,True
+5549,SYN005654,age,150,,52.0,True
+5669,SYN004162,age,,,52.0,True
+5716,SYN008470,age,'-5,,52.0,True
+5720,SYN006293,age, ,,52.0,True
+5725,SYN007399,age,missing,,52.0,True
+5779,SYN007676,age,220,,52.0,True
+5791,SYN003056,age,missing,,52.0,True
+5874,SYN009177,age,,,52.0,True
+5888,SYN009014,age,NA,,52.0,True
+5933,SYN009335,age,error,,52.0,True
+5935,SYN000105,age,error,,52.0,True
+5936,SYN003774,age,missing,,52.0,True
+5937,SYN001803,age,null,,52.0,True
+6006,SYN002294,age,missing,,52.0,True
+6120,SYN000687,age,'-5,,52.0,True
+6144,SYN009465,age,NA,,52.0,True
+6201,SYN006646,age,not recorded,,52.0,True
+6229,SYN004702,age,NA,,52.0,True
+6255,SYN009503,age,150,,52.0,True
+6273,SYN003883,age,N/A,,52.0,True
+6397,SYN001415,age,N/A,,52.0,True
+6400,SYN005021,age,null,,52.0,True
+6408,SYN000589,age,missing,,52.0,True
+6474,SYN004596,age,NA,,52.0,True
+6540,SYN007833,age,NA,,52.0,True
+6546,SYN005762,age,220,,52.0,True
+6593,SYN006894,age,'-5,,52.0,True
+6629,SYN002807,age,missing,,52.0,True
+6681,SYN001410,age,0,,52.0,True
+6762,SYN008283,age,NaN,,52.0,True
+6789,SYN004701,age, ,,52.0,True
+6822,SYN001820,age,0,,52.0,True
+6896,SYN003490,age,150,,52.0,True
+6967,SYN004488,age, ,,52.0,True
+7033,SYN001013,age,abc,,52.0,True
+7098,SYN007091,age,NA,,52.0,True
+7105,SYN003900,age,not recorded,,52.0,True
+7131,SYN000370,age,0,,52.0,True
+7171,SYN006719,age,N/A,,52.0,True
+7343,SYN001314,age,220,,52.0,True
+7394,SYN003501,age,150,,52.0,True
+7411,SYN002951,age,,,52.0,True
+7442,SYN007698,age,null,,52.0,True
+7520,SYN001778,age,missing,,52.0,True
+7563,SYN002014,age,NA,,52.0,True
+7647,SYN005993,age,null,,52.0,True
+7692,SYN004044,age,,,52.0,True
+7736,SYN000559,age,null,,52.0,True
+7760,SYN007060,age,null,,52.0,True
+7761,SYN007235,age,null,,52.0,True
+7788,SYN004503,age,NA,,52.0,True
+7789,SYN009179,age,NA,,52.0,True
+7793,SYN007485,age,NaN,,52.0,True
+7839,SYN006274,age,missing,,52.0,True
+7852,SYN001542,age,missing,,52.0,True
+7944,SYN001419,age,missing,,52.0,True
+8025,SYN000814,age,150,,52.0,True
+8042,SYN008334,age,,,52.0,True
+8080,SYN002080,age,N/A,,52.0,True
+8093,SYN008842,age,NaN,,52.0,True
+8214,SYN000437,age,'-5,,52.0,True
+8275,SYN000876,age,0,,52.0,True
+8299,SYN000257,age,NaN,,52.0,True
+8318,SYN001501,age, ,,52.0,True
+8338,SYN000102,age,,,52.0,True
+8376,SYN009502,age,NaN,,52.0,True
+8379,SYN001104,age,null,,52.0,True
+8385,SYN005328,age,,,52.0,True
+8443,SYN004895,age,null,,52.0,True
+8506,SYN006375,age,150,,52.0,True
+8539,SYN003451,age, ,,52.0,True
+8597,SYN004014,age, ,,52.0,True
+8598,SYN003189,age,not recorded,,52.0,True
+8726,SYN001773,age,NA,,52.0,True
+8750,SYN008083,age,NA,,52.0,True
+8792,SYN007719,age,,,52.0,True
+8801,SYN008240,age,NaN,,52.0,True
+8841,SYN009031,age,,,52.0,True
+8868,SYN003446,age,N/A,,52.0,True
+8881,SYN006279,age,null,,52.0,True
+8975,SYN007554,age,NA,,52.0,True
+9031,SYN004861,age,NA,,52.0,True
+9105,SYN001776,age,150,,52.0,True
+9113,SYN005783,age,not recorded,,52.0,True
+9198,SYN003191,age,220,,52.0,True
+9269,SYN002970,age,'-5,,52.0,True
+9315,SYN004708,age,NA,,52.0,True
+9458,SYN003849,age,error,,52.0,True
+9559,SYN008349,age,NA,,52.0,True
+9575,SYN007767,age,NA,,52.0,True
+9584,SYN002876,age,N/A,,52.0,True
+9597,SYN000651,age, ,,52.0,True
+9628,SYN007769,age,error,,52.0,True
+9641,SYN003565,age,unknown,,52.0,True
+9665,SYN001475,age,220,,52.0,True
+9708,SYN000068,age,220,,52.0,True
+9730,SYN007181,age,abc,,52.0,True
+9924,SYN009673,age, ,,52.0,True
+9926,SYN000302,age,N/A,,52.0,True
+9974,SYN004966,age,not recorded,,52.0,True
+9986,SYN008484,age,NaN,,52.0,True
+20,SYN007212,tenure,NA,,11.0,True
+56,SYN005446,tenure, ,,11.0,True
+97,SYN005255,tenure,null,,11.0,True
+148,SYN007922,tenure,error,,11.0,True
+204,SYN000665,tenure,missing,,11.0,True
+248,SYN005236,tenure,missing,,11.0,True
+333,SYN007201,tenure,unknown,,11.0,True
+359,SYN008246,tenure,NaN,,11.0,True
+378,SYN003601,tenure,abc,,11.0,True
+390,SYN001472,tenure,NA,,11.0,True
+443,SYN005767,tenure,abc,,11.0,True
+488,SYN008934,tenure,null,,11.0,True
+581,SYN007564,tenure, ,,11.0,True
+592,SYN008550,tenure, ,,11.0,True
+612,SYN006443,tenure,not recorded,,11.0,True
+643,SYN000720,tenure,80,,11.0,True
+694,SYN006044,tenure,120,,11.0,True
+717,SYN000238,tenure,N/A,,11.0,True
+752,SYN001782,tenure,missing,,11.0,True
+819,SYN005754,tenure,null,,11.0,True
+1006,SYN004212,tenure,null,,11.0,True
+1030,SYN006105,tenure,N/A,,11.0,True
+1091,SYN008204,tenure,NA,,11.0,True
+1301,SYN007058,tenure, ,,11.0,True
+1335,SYN007835,tenure,null,,11.0,True
+1535,SYN003947,tenure,'-3,,11.0,True
+1546,SYN008568,tenure,NaN,,11.0,True
+1573,SYN008075,tenure,N/A,,11.0,True
+1602,SYN004828,tenure,'-3,,11.0,True
+1647,SYN005475,tenure, ,,11.0,True
+1654,SYN001357,tenure,,,11.0,True
+1683,SYN002998,tenure,'-3,,11.0,True
+1695,SYN000958,tenure,NA,,11.0,True
+1726,SYN006728,tenure,,,11.0,True
+1728,SYN003810,tenure,unknown,,11.0,True
+1845,SYN007541,tenure,NaN,,11.0,True
+1863,SYN006731,tenure,NaN,,11.0,True
+1899,SYN005559,tenure,error,,11.0,True
+2003,SYN005790,tenure, ,,11.0,True
+2016,SYN006820,tenure,NA,,11.0,True
+2049,SYN002034,tenure,,,11.0,True
+2120,SYN001965,tenure,unknown,,11.0,True
+2162,SYN004132,tenure, ,,11.0,True
+2452,SYN003312,tenure,error,,11.0,True
+2478,SYN005416,tenure,NaN,,11.0,True
+2593,SYN002011,tenure,missing,,11.0,True
+2597,SYN005837,tenure,NA,,11.0,True
+2632,SYN009209,tenure,missing,,11.0,True
+2645,SYN009649,tenure, ,,11.0,True
+2827,SYN002211,tenure,NA,,11.0,True
+2893,SYN007374,tenure,120,,11.0,True
+2909,SYN004668,tenure,null,,11.0,True
+2958,SYN002620,tenure,,,11.0,True
+3105,SYN002155,tenure,null,,11.0,True
+3150,SYN006972,tenure,missing,,11.0,True
+3160,SYN002138,tenure,N/A,,11.0,True
+3258,SYN003256,tenure,NaN,,11.0,True
+3262,SYN001430,tenure,120,,11.0,True
+3268,SYN000532,tenure, ,,11.0,True
+3392,SYN002103,tenure,120,,11.0,True
+3424,SYN007475,tenure, ,,11.0,True
+3457,SYN004889,tenure,NA,,11.0,True
+3479,SYN001743,tenure,N/A,,11.0,True
+3530,SYN001401,tenure,120,,11.0,True
+3541,SYN005603,tenure,error,,11.0,True
+3605,SYN007306,tenure,null,,11.0,True
+3617,SYN000555,tenure,NaN,,11.0,True
+3712,SYN008645,tenure,,,11.0,True
+3760,SYN002946,tenure,missing,,11.0,True
+3842,SYN000929,tenure,missing,,11.0,True
+3916,SYN003600,tenure,'-3,,11.0,True
+3932,SYN000009,tenure,null,,11.0,True
+3954,SYN006705,tenure,error,,11.0,True
+3980,SYN003843,tenure,null,,11.0,True
+3996,SYN004820,tenure,NA,,11.0,True
+4057,SYN003310,tenure,,,11.0,True
+4071,SYN008129,tenure, ,,11.0,True
+4096,SYN007270,tenure,not recorded,,11.0,True
+4131,SYN008439,tenure,NA,,11.0,True
+4148,SYN000170,tenure,NA,,11.0,True
+4154,SYN008961,tenure,NA,,11.0,True
+4258,SYN004112,tenure,missing,,11.0,True
+4280,SYN006409,tenure,'-3,,11.0,True
+4289,SYN003894,tenure,NA,,11.0,True
+4306,SYN005226,tenure,error,,11.0,True
+4315,SYN003275,tenure,NaN,,11.0,True
+4320,SYN003977,tenure,'-3,,11.0,True
+4337,SYN001999,tenure,,,11.0,True
+4349,SYN006042,tenure,NaN,,11.0,True
+4371,SYN009103,tenure,80,,11.0,True
+4486,SYN008517,tenure,N/A,,11.0,True
+4493,SYN009623,tenure,NaN,,11.0,True
+4496,SYN003845,tenure,,,11.0,True
+4519,SYN006089,tenure,error,,11.0,True
+4567,SYN006846,tenure,NaN,,11.0,True
+4621,SYN000568,tenure,null,,11.0,True
+4630,SYN001311,tenure,null,,11.0,True
+4634,SYN004707,tenure,NA,,11.0,True
+4649,SYN002173,tenure,NaN,,11.0,True
+4796,SYN003668,tenure,NaN,,11.0,True
+4798,SYN002696,tenure,NA,,11.0,True
+4834,SYN008297,tenure,null,,11.0,True
+4836,SYN006023,tenure, ,,11.0,True
+4911,SYN005669,tenure,'-3,,11.0,True
+4917,SYN001096,tenure,null,,11.0,True
+4924,SYN006533,tenure,NaN,,11.0,True
+5044,SYN005222,tenure,missing,,11.0,True
+5051,SYN005439,tenure, ,,11.0,True
+5160,SYN000154,tenure,NA,,11.0,True
+5163,SYN001445,tenure,NaN,,11.0,True
+5168,SYN000736,tenure,80,,11.0,True
+5221,SYN003253,tenure,N/A,,11.0,True
+5317,SYN003691,tenure,'-3,,11.0,True
+5394,SYN006418,tenure,'-3,,11.0,True
+5407,SYN004922,tenure, ,,11.0,True
+5448,SYN005265,tenure,error,,11.0,True
+5461,SYN008436,tenure, ,,11.0,True
+5505,SYN005335,tenure,80,,11.0,True
+5540,SYN000644,tenure,N/A,,11.0,True
+5613,SYN009056,tenure,'-3,,11.0,True
+5621,SYN005459,tenure,N/A,,11.0,True
+5668,SYN006033,tenure,NA,,11.0,True
+5914,SYN007117,tenure,120,,11.0,True
+5962,SYN006607,tenure,abc,,11.0,True
+6058,SYN009299,tenure,error,,11.0,True
+6080,SYN000500,tenure,error,,11.0,True
+6089,SYN007130,tenure,NA,,11.0,True
+6098,SYN007412,tenure,'-3,,11.0,True
+6155,SYN007315,tenure,N/A,,11.0,True
+6213,SYN002899,tenure,80,,11.0,True
+6334,SYN009257,tenure,NaN,,11.0,True
+6341,SYN007774,tenure,null,,11.0,True
+6347,SYN009592,tenure,'-3,,11.0,True
+6398,SYN006342,tenure,,,11.0,True
+6531,SYN007390,tenure,,,11.0,True
+6579,SYN001014,tenure,120,,11.0,True
+6596,SYN005888,tenure,,,11.0,True
+6603,SYN005566,tenure,N/A,,11.0,True
+6608,SYN008804,tenure,error,,11.0,True
+6663,SYN008210,tenure,abc,,11.0,True
+6672,SYN001932,tenure,NaN,,11.0,True
+6683,SYN006363,tenure,not recorded,,11.0,True
+6687,SYN005662,tenure,,,11.0,True
+6773,SYN002325,tenure,NaN,,11.0,True
+6790,SYN001896,tenure,80,,11.0,True
+6793,SYN005265,tenure,error,,11.0,True
+6808,SYN000499,tenure, ,,11.0,True
+6967,SYN004488,tenure,NaN,,11.0,True
+6987,SYN001007,tenure,missing,,11.0,True
+6998,SYN007552,tenure,NaN,,11.0,True
+7038,SYN006396,tenure,80,,11.0,True
+7084,SYN006377,tenure,NA,,11.0,True
+7145,SYN006904,tenure,120,,11.0,True
+7173,SYN005777,tenure,'-3,,11.0,True
+7195,SYN000868,tenure,80,,11.0,True
+7298,SYN005467,tenure,,,11.0,True
+7307,SYN006651,tenure,NaN,,11.0,True
+7318,SYN004168,tenure,not recorded,,11.0,True
+7331,SYN007574,tenure,120,,11.0,True
+7362,SYN006321,tenure,missing,,11.0,True
+7420,SYN002348,tenure,NA,,11.0,True
+7439,SYN001109,tenure,120,,11.0,True
+7449,SYN007375,tenure,NA,,11.0,True
+7452,SYN006281,tenure,N/A,,11.0,True
+7627,SYN002209,tenure,,,11.0,True
+7644,SYN009158,tenure, ,,11.0,True
+7720,SYN001696,tenure,N/A,,11.0,True
+7733,SYN000575,tenure,,,11.0,True
+7743,SYN009628,tenure,null,,11.0,True
+7751,SYN004846,tenure,80,,11.0,True
+7794,SYN009608,tenure, ,,11.0,True
+7807,SYN000413,tenure,120,,11.0,True
+7837,SYN008466,tenure,NaN,,11.0,True
+7859,SYN005063,tenure,NA,,11.0,True
+7878,SYN004212,tenure,null,,11.0,True
+7897,SYN000187,tenure,missing,,11.0,True
+7916,SYN003963,tenure,80,,11.0,True
+8059,SYN009263,tenure,N/A,,11.0,True
+8156,SYN003029,tenure,null,,11.0,True
+8178,SYN004728,tenure, ,,11.0,True
+8226,SYN004481,tenure,,,11.0,True
+8236,SYN009446,tenure,120,,11.0,True
+8251,SYN005172,tenure,null,,11.0,True
+8277,SYN004564,tenure,missing,,11.0,True
+8282,SYN001749,tenure,,,11.0,True
+8345,SYN000577,tenure,N/A,,11.0,True
+8408,SYN006097,tenure,missing,,11.0,True
+8418,SYN006006,tenure,not recorded,,11.0,True
+8515,SYN001616,tenure,null,,11.0,True
+8562,SYN005952,tenure,,,11.0,True
+8653,SYN007195,tenure,missing,,11.0,True
+8707,SYN007303,tenure,abc,,11.0,True
+8748,SYN003763,tenure,120,,11.0,True
+8772,SYN004253,tenure,'-3,,11.0,True
+8833,SYN007500,tenure,N/A,,11.0,True
+8848,SYN001525,tenure,80,,11.0,True
+8887,SYN005670,tenure,,,11.0,True
+8940,SYN007025,tenure,unknown,,11.0,True
+8942,SYN005189,tenure,abc,,11.0,True
+9016,SYN009332,tenure,null,,11.0,True
+9026,SYN000596,tenure,null,,11.0,True
+9051,SYN009047,tenure,'-3,,11.0,True
+9238,SYN008880,tenure,N/A,,11.0,True
+9268,SYN004776,tenure,unknown,,11.0,True
+9322,SYN004003,tenure,NaN,,11.0,True
+9337,SYN005155,tenure, ,,11.0,True
+9357,SYN007980,tenure,missing,,11.0,True
+9390,SYN001433,tenure,null,,11.0,True
+9415,SYN004960,tenure,,,11.0,True
+9469,SYN006241,tenure,abc,,11.0,True
+9470,SYN008420,tenure,not recorded,,11.0,True
+9504,SYN006043,tenure,NaN,,11.0,True
+9528,SYN003395,tenure,NaN,,11.0,True
+9551,SYN004050,tenure,N/A,,11.0,True
+9600,SYN002176,tenure,NaN,,11.0,True
+9602,SYN007311,tenure,missing,,11.0,True
+9713,SYN002245,tenure,'-3,,11.0,True
+9751,SYN007921,tenure,'-3,,11.0,True
+9828,SYN001164,tenure,null,,11.0,True
+9848,SYN009323,tenure,missing,,11.0,True
+9886,SYN008008,tenure,'-3,,11.0,True
+9905,SYN008448,tenure,missing,,11.0,True
+9973,SYN005237,tenure,120,,11.0,True
+9990,SYN009059,tenure,N/A,,11.0,True
+40,SYN004989,credit_score,999,,660.0,True
+63,SYN004838,credit_score,error,,660.0,True
+136,SYN008015,credit_score,'-10,,660.0,True
+158,SYN009362,credit_score,,,660.0,True
+166,SYN006119,credit_score,,,660.0,True
+172,SYN003916,credit_score,NaN,,660.0,True
+186,SYN002030,credit_score,abc,,660.0,True
+249,SYN004395,credit_score,missing,,660.0,True
+255,SYN005915,credit_score,'-10,,660.0,True
+266,SYN001499,credit_score,1200,,660.0,True
+482,SYN005823,credit_score,not recorded,,660.0,True
+528,SYN000131,credit_score, ,,660.0,True
+529,SYN000618,credit_score,null,,660.0,True
+534,SYN004085,credit_score,999,,660.0,True
+585,SYN003209,credit_score,abc,,660.0,True
+610,SYN006384,credit_score,missing,,660.0,True
+626,SYN004619,credit_score,missing,,660.0,True
+659,SYN009694,credit_score,null,,660.0,True
+682,SYN004172,credit_score,,,660.0,True
+685,SYN008823,credit_score,null,,660.0,True
+764,SYN006064,credit_score, ,,660.0,True
+826,SYN005368,credit_score,1200,,660.0,True
+896,SYN004438,credit_score,N/A,,660.0,True
+1091,SYN008204,credit_score,null,,660.0,True
+1186,SYN001379,credit_score,'-10,,660.0,True
+1210,SYN002640,credit_score, ,,660.0,True
+1220,SYN008862,credit_score,'-10,,660.0,True
+1236,SYN005087,credit_score,NaN,,660.0,True
+1331,SYN008338,credit_score, ,,660.0,True
+1333,SYN006839,credit_score,NaN,,660.0,True
+1436,SYN008017,credit_score,null,,660.0,True
+1461,SYN005100,credit_score,99,,660.0,True
+1481,SYN008163,credit_score,,,660.0,True
+1518,SYN009578,credit_score,unknown,,660.0,True
+1786,SYN002985,credit_score,999,,660.0,True
+1831,SYN001795,credit_score,NA,,660.0,True
+1875,SYN007984,credit_score,missing,,660.0,True
+1924,SYN004534,credit_score,unknown,,660.0,True
+1935,SYN007215,credit_score,missing,,660.0,True
+1979,SYN002237,credit_score,NaN,,660.0,True
+2045,SYN001869,credit_score,1200,,660.0,True
+2099,SYN001807,credit_score,unknown,,660.0,True
+2108,SYN001540,credit_score, ,,660.0,True
+2126,SYN004273,credit_score, ,,660.0,True
+2241,SYN003188,credit_score,,,660.0,True
+2243,SYN007370,credit_score,,,660.0,True
+2285,SYN006270,credit_score, ,,660.0,True
+2332,SYN005839,credit_score,null,,660.0,True
+2356,SYN008084,credit_score,NaN,,660.0,True
+2448,SYN006791,credit_score,N/A,,660.0,True
+2461,SYN009431,credit_score,,,660.0,True
+2579,SYN009185,credit_score,NaN,,660.0,True
+2583,SYN003950,credit_score,NaN,,660.0,True
+2623,SYN001080,credit_score,,,660.0,True
+2670,SYN001461,credit_score,NaN,,660.0,True
+2786,SYN009455,credit_score, ,,660.0,True
+2870,SYN007280,credit_score,NA,,660.0,True
+2891,SYN001676,credit_score,1200,,660.0,True
+2913,SYN008399,credit_score,1200,,660.0,True
+2934,SYN006931,credit_score,999,,660.0,True
+3001,SYN005070,credit_score,NaN,,660.0,True
+3047,SYN001730,credit_score, ,,660.0,True
+3064,SYN007924,credit_score,null,,660.0,True
+3202,SYN002715,credit_score,NaN,,660.0,True
+3207,SYN006277,credit_score,1200,,660.0,True
+3234,SYN000247,credit_score,missing,,660.0,True
+3283,SYN006383,credit_score,NaN,,660.0,True
+3336,SYN006352,credit_score,missing,,660.0,True
+3357,SYN003415,credit_score,null,,660.0,True
+3453,SYN001161,credit_score, ,,660.0,True
+3461,SYN002637,credit_score,N/A,,660.0,True
+3475,SYN000766,credit_score,abc,,660.0,True
+3491,SYN001685,credit_score,missing,,660.0,True
+3493,SYN005779,credit_score,null,,660.0,True
+3520,SYN008002,credit_score,missing,,660.0,True
+3544,SYN002877,credit_score,abc,,660.0,True
+3546,SYN002851,credit_score,error,,660.0,True
+3555,SYN008628,credit_score,99,,660.0,True
+3604,SYN009079,credit_score,1200,,660.0,True
+3628,SYN004754,credit_score,1200,,660.0,True
+3699,SYN003561,credit_score,missing,,660.0,True
+3711,SYN006682,credit_score,NaN,,660.0,True
+3720,SYN007206,credit_score,'-10,,660.0,True
+3744,SYN004542,credit_score,unknown,,660.0,True
+3957,SYN000650,credit_score,unknown,,660.0,True
+3970,SYN000428,credit_score,NA,,660.0,True
+4006,SYN005820,credit_score,not recorded,,660.0,True
+4027,SYN003700,credit_score,missing,,660.0,True
+4030,SYN005735,credit_score,abc,,660.0,True
+4075,SYN005726,credit_score,999,,660.0,True
+4079,SYN009036,credit_score,N/A,,660.0,True
+4131,SYN008439,credit_score,NA,,660.0,True
+4172,SYN004894,credit_score,missing,,660.0,True
+4204,SYN008707,credit_score,1200,,660.0,True
+4337,SYN001999,credit_score,NaN,,660.0,True
+4357,SYN001716,credit_score, ,,660.0,True
+4409,SYN003177,credit_score,99,,660.0,True
+4493,SYN009623,credit_score,99,,660.0,True
+4517,SYN006665,credit_score,NA,,660.0,True
+4582,SYN006276,credit_score,99,,660.0,True
+4583,SYN001042,credit_score,missing,,660.0,True
+4595,SYN006456,credit_score,'-10,,660.0,True
+4631,SYN000063,credit_score,NA,,660.0,True
+4682,SYN000438,credit_score, ,,660.0,True
+4698,SYN008185,credit_score,'-10,,660.0,True
+4764,SYN006963,credit_score,NA,,660.0,True
+4796,SYN003668,credit_score, ,,660.0,True
+4807,SYN009015,credit_score,unknown,,660.0,True
+4897,SYN002727,credit_score,NaN,,660.0,True
+5005,SYN001388,credit_score,missing,,660.0,True
+5067,SYN008543,credit_score, ,,660.0,True
+5074,SYN004280,credit_score,,,660.0,True
+5103,SYN003237,credit_score,1200,,660.0,True
+5148,SYN000379,credit_score,1200,,660.0,True
+5190,SYN002035,credit_score,not recorded,,660.0,True
+5226,SYN009611,credit_score,abc,,660.0,True
+5361,SYN001912,credit_score,error,,660.0,True
+5401,SYN003041,credit_score,abc,,660.0,True
+5408,SYN006117,credit_score,999,,660.0,True
+5409,SYN007009,credit_score,NA,,660.0,True
+5435,SYN004165,credit_score,missing,,660.0,True
+5479,SYN007024,credit_score,999,,660.0,True
+5513,SYN004651,credit_score,,,660.0,True
+5547,SYN007872,credit_score,not recorded,,660.0,True
+5815,SYN008128,credit_score,missing,,660.0,True
+5851,SYN003299,credit_score,'-10,,660.0,True
+5864,SYN003783,credit_score,N/A,,660.0,True
+5908,SYN009405,credit_score,99,,660.0,True
+5977,SYN006516,credit_score,999,,660.0,True
+6004,SYN001069,credit_score,NaN,,660.0,True
+6118,SYN003091,credit_score,N/A,,660.0,True
+6247,SYN005018,credit_score,missing,,660.0,True
+6265,SYN006307,credit_score,not recorded,,660.0,True
+6270,SYN003486,credit_score,,,660.0,True
+6344,SYN002654,credit_score,null,,660.0,True
+6355,SYN004934,credit_score,NA,,660.0,True
+6371,SYN007962,credit_score,missing,,660.0,True
+6374,SYN000881,credit_score,null,,660.0,True
+6465,SYN007394,credit_score,abc,,660.0,True
+6525,SYN005664,credit_score,,,660.0,True
+6532,SYN006056,credit_score,abc,,660.0,True
+6571,SYN001572,credit_score,NA,,660.0,True
+6622,SYN006203,credit_score,,,660.0,True
+6625,SYN000883,credit_score,NA,,660.0,True
+6647,SYN002461,credit_score,'-10,,660.0,True
+6701,SYN006973,credit_score,missing,,660.0,True
+6797,SYN003914,credit_score, ,,660.0,True
+6802,SYN006981,credit_score,null,,660.0,True
+6822,SYN001820,credit_score,,,660.0,True
+6825,SYN001119,credit_score,missing,,660.0,True
+6831,SYN003340,credit_score,999,,660.0,True
+6840,SYN004433,credit_score,NaN,,660.0,True
+6868,SYN008733,credit_score,unknown,,660.0,True
+6885,SYN006908,credit_score,error,,660.0,True
+6903,SYN005271,credit_score,NA,,660.0,True
+6982,SYN007336,credit_score,99,,660.0,True
+7076,SYN006256,credit_score,NA,,660.0,True
+7101,SYN000345,credit_score,error,,660.0,True
+7214,SYN008655,credit_score,999,,660.0,True
+7417,SYN004015,credit_score,N/A,,660.0,True
+7431,SYN000640,credit_score,NaN,,660.0,True
+7566,SYN007349,credit_score,N/A,,660.0,True
+7579,SYN005869,credit_score,error,,660.0,True
+7618,SYN007920,credit_score,999,,660.0,True
+7620,SYN009621,credit_score,NA,,660.0,True
+7628,SYN004838,credit_score,error,,660.0,True
+7688,SYN005079,credit_score,99,,660.0,True
+7722,SYN005800,credit_score,1200,,660.0,True
+7729,SYN005716,credit_score, ,,660.0,True
+7749,SYN002287,credit_score,N/A,,660.0,True
+7753,SYN006208,credit_score,missing,,660.0,True
+7776,SYN005351,credit_score,missing,,660.0,True
+7952,SYN004700,credit_score,N/A,,660.0,True
+7966,SYN002857,credit_score,N/A,,660.0,True
+8016,SYN006116,credit_score,N/A,,660.0,True
+8017,SYN007818,credit_score,missing,,660.0,True
+8101,SYN000891,credit_score,abc,,660.0,True
+8287,SYN008707,credit_score,1200,,660.0,True
+8309,SYN006537,credit_score,error,,660.0,True
+8392,SYN001455,credit_score,NA,,660.0,True
+8416,SYN004097,credit_score,N/A,,660.0,True
+8418,SYN006006,credit_score,1200,,660.0,True
+8421,SYN008109,credit_score,missing,,660.0,True
+8485,SYN005076,credit_score,unknown,,660.0,True
+8537,SYN002793,credit_score,missing,,660.0,True
+8544,SYN003278,credit_score,N/A,,660.0,True
+8555,SYN001077,credit_score,NaN,,660.0,True
+8571,SYN009223,credit_score,99,,660.0,True
+8718,SYN006865,credit_score,missing,,660.0,True
+8780,SYN007059,credit_score,NaN,,660.0,True
+8836,SYN002756,credit_score,null,,660.0,True
+8900,SYN003670,credit_score,null,,660.0,True
+8917,SYN008557,credit_score, ,,660.0,True
+8946,SYN005431,credit_score,NaN,,660.0,True
+9039,SYN002462,credit_score,1200,,660.0,True
+9050,SYN006735,credit_score,NaN,,660.0,True
+9072,SYN005437,credit_score,N/A,,660.0,True
+9087,SYN004126,credit_score,unknown,,660.0,True
+9105,SYN001776,credit_score,,,660.0,True
+9154,SYN008354,credit_score,N/A,,660.0,True
+9193,SYN006067,credit_score,not recorded,,660.0,True
+9251,SYN007525,credit_score,missing,,660.0,True
+9286,SYN000439,credit_score, ,,660.0,True
+9448,SYN002786,credit_score,error,,660.0,True
+9452,SYN006659,credit_score,error,,660.0,True
+9492,SYN009581,credit_score,,,660.0,True
+9576,SYN002166,credit_score,,,660.0,True
+9584,SYN002876,credit_score,missing,,660.0,True
+9693,SYN002725,credit_score,99,,660.0,True
+9753,SYN008373,credit_score,N/A,,660.0,True
+9797,SYN002926,credit_score,'-10,,660.0,True
+9807,SYN005794,credit_score,1200,,660.0,True
+9841,SYN002445,credit_score,1200,,660.0,True
+9883,SYN005732,credit_score,N/A,,660.0,True
+9945,SYN008385,credit_score,N/A,,660.0,True
+83,SYN002470,currency,NA,,,False
+98,SYN003959,currency,NA,,,False
+295,SYN006922,currency,,,,False
+315,SYN000689,currency,null,,,False
+320,SYN004659,currency,null,,,False
+328,SYN002057,currency,NaN,,,False
+422,SYN009099,currency,NaN,,,False
+480,SYN004421,currency, ,,,False
+519,SYN001154,currency,missing,,,False
+716,SYN000806,currency,N/A,,,False
+809,SYN001347,currency,NaN,,,False
+838,SYN002925,currency,,,,False
+961,SYN003180,currency, ,,,False
+973,SYN000615,currency,NA,,,False
+985,SYN001205,currency, ,,,False
+1128,SYN000290,currency,N/A,,,False
+1169,SYN000457,currency,NA,,,False
+1265,SYN006632,currency,,,,False
+1338,SYN008214,currency,missing,,,False
+1374,SYN003070,currency, ,,,False
+1419,SYN005906,currency,,,,False
+1465,SYN006940,currency,NaN,,,False
+1481,SYN008163,currency, ,,,False
+1496,SYN005186,currency,N/A,,,False
+1529,SYN003344,currency, ,,,False
+1536,SYN006950,currency,missing,,,False
+1565,SYN001911,currency, ,,,False
+1585,SYN008942,currency,NaN,,,False
+1640,SYN007080,currency,NaN,,,False
+1648,SYN003483,currency,,,,False
+1656,SYN000671,currency,NaN,,,False
+1690,SYN000629,currency,missing,,,False
+1703,SYN009256,currency,,,,False
+1798,SYN001873,currency,missing,,,False
+2106,SYN006701,currency, ,,,False
+2165,SYN003999,currency,,,,False
+2176,SYN009282,currency,NA,,,False
+2241,SYN003188,currency,N/A,,,False
+2248,SYN001222,currency, ,,,False
+2362,SYN007647,currency,,,,False
+2410,SYN000626,currency,NaN,,,False
+2464,SYN008928,currency,null,,,False
+2503,SYN002471,currency,N/A,,,False
+2508,SYN005876,currency,NA,,,False
+2552,SYN006446,currency,null,,,False
+2648,SYN001679,currency,N/A,,,False
+2713,SYN002509,currency,missing,,,False
+2769,SYN007101,currency,missing,,,False
+2871,SYN009634,currency,missing,,,False
+2921,SYN006304,currency,NA,,,False
+2953,SYN002370,currency,missing,,,False
+3096,SYN007506,currency,missing,,,False
+3274,SYN003076,currency,NA,,,False
+3443,SYN000460,currency,null,,,False
+3467,SYN000017,currency,missing,,,False
+3531,SYN006721,currency,NA,,,False
+3691,SYN005146,currency,,,,False
+3716,SYN001370,currency, ,,,False
+3796,SYN009476,currency, ,,,False
+3880,SYN008928,currency,null,,,False
+3987,SYN000672,currency,NaN,,,False
+4010,SYN004545,currency,missing,,,False
+4016,SYN008820,currency,null,,,False
+4131,SYN008439,currency,N/A,,,False
+4258,SYN004112,currency,,,,False
+4436,SYN007527,currency,,,,False
+4535,SYN009151,currency,NaN,,,False
+4560,SYN003022,currency,N/A,,,False
+4564,SYN006505,currency,missing,,,False
+4572,SYN008172,currency,NA,,,False
+4583,SYN001042,currency,null,,,False
+4750,SYN001249,currency,,,,False
+4784,SYN003949,currency,null,,,False
+4818,SYN004396,currency,NA,,,False
+5101,SYN006487,currency,NA,,,False
+5150,SYN004891,currency,missing,,,False
+5221,SYN003253,currency,NA,,,False
+5250,SYN009618,currency,null,,,False
+5329,SYN004881,currency,missing,,,False
+5540,SYN000644,currency,NA,,,False
+5808,SYN008147,currency,missing,,,False
+5936,SYN003774,currency,N/A,,,False
+5938,SYN006306,currency, ,,,False
+6013,SYN000109,currency,null,,,False
+6015,SYN007802,currency, ,,,False
+6067,SYN005163,currency,,,,False
+6187,SYN005825,currency,missing,,,False
+6210,SYN005819,currency,,,,False
+6280,SYN000297,currency,missing,,,False
+6350,SYN007102,currency, ,,,False
+6482,SYN007132,currency,,,,False
+6544,SYN001398,currency,,,,False
+6552,SYN000212,currency,N/A,,,False
+6605,SYN007198,currency,N/A,,,False
+6966,SYN007638,currency,NaN,,,False
+7065,SYN003522,currency,,,,False
+7120,SYN003412,currency,NA,,,False
+7354,SYN004272,currency, ,,,False
+7591,SYN004337,currency,NaN,,,False
+7684,SYN002579,currency,NaN,,,False
+7720,SYN001696,currency, ,,,False
+7746,SYN001279,currency,null,,,False
+7871,SYN006074,currency, ,,,False
+7978,SYN000474,currency,NA,,,False
+8065,SYN007856,currency,null,,,False
+8193,SYN008732,currency,NaN,,,False
+8411,SYN000310,currency,null,,,False
+8451,SYN000171,currency,NaN,,,False
+8530,SYN004288,currency,missing,,,False
+8573,SYN002038,currency,N/A,,,False
+8786,SYN000840,currency,,,,False
+8954,SYN000692,currency,,,,False
+8971,SYN002194,currency,missing,,,False
+8972,SYN004251,currency,,,,False
+9062,SYN005204,currency,missing,,,False
+9157,SYN008489,currency, ,,,False
+9266,SYN009383,currency,missing,,,False
+9301,SYN002328,currency,,,,False
+9316,SYN007941,currency,null,,,False
+9403,SYN003407,currency,NaN,,,False
+9415,SYN004960,currency,,,,False
+9540,SYN002525,currency,NaN,,,False
+9859,SYN006551,currency,,,,False
+9900,SYN003341,currency,N/A,,,False
+9991,SYN004546,currency,,,,False
+10,SYN005919,balance,missing,,11922.985,True
+67,SYN000261,balance,unknown,,91163.89499999999,True
+196,SYN000262,balance, ,,1571667.165,True
+206,SYN003966,balance,NaN,,91163.89499999999,True
+298,SYN001680,balance,abc,,63630.32,True
+373,SYN003015,balance,,,3866334.8449999997,True
+392,SYN002672,balance,NaN,,11922.985,True
+431,SYN002132,balance,,,47300.33,True
+505,SYN003511,balance,NaN,,180668000.0,True
+517,SYN000515,balance,NaN,,126315.89,True
+565,SYN001910,balance,not recorded,,675335.56,True
+575,SYN009399,balance,missing,,34355552.63,True
+755,SYN000464,balance,NA,,258296.925,True
+784,SYN001921,balance,NA,,180668000.0,True
+1023,SYN004254,balance,abc,,675335.56,True
+1056,SYN006222,balance,,,50673.145000000004,True
+1270,SYN007292,balance,NaN,,11922.985,True
+1354,SYN008020,balance,,,12068.9,True
+1364,SYN005828,balance,null,,24752.77,True
+1530,SYN000791,balance,NA,,400930.33,True
+1532,SYN003687,balance,unknown,,4920.35,True
+1633,SYN006275,balance,unknown,,180668000.0,True
+1640,SYN007080,balance,N/A,,,False
+1742,SYN008690,balance,,,321537.0,True
+1761,SYN000862,balance,null,,2293530.0,True
+1828,SYN002244,balance, ,,46694.06,True
+1891,SYN006493,balance,unknown,,3866334.8449999997,True
+1931,SYN008889,balance, ,,337904.55,True
+2099,SYN001807,balance,missing,,91163.89499999999,True
+2155,SYN008631,balance,N/A,,713779.0,True
+2187,SYN008998,balance,N/A,,121829.3,True
+2254,SYN006794,balance,missing,,16133.48,True
+2258,SYN005893,balance,null,,290933492.065,True
+2261,SYN009041,balance, ,,12068.9,True
+2288,SYN006348,balance,,,22450.195,True
+2372,SYN003416,balance,N/A,,46694.06,True
+2414,SYN005049,balance,missing,,136938.21,True
+2528,SYN002730,balance, ,,45692.15,True
+2630,SYN001598,balance,NA,,58643.55,True
+2663,SYN001597,balance,unknown,,63630.32,True
+2780,SYN001892,balance,error,,47300.33,True
+2802,SYN001958,balance,NaN,,4920.35,True
+2870,SYN007280,balance,unknown,,12068.9,True
+2946,SYN006584,balance,,,12068.9,True
+3094,SYN005358,balance,missing,,12068.9,True
+3292,SYN008871,balance,abc,,290933492.065,True
+3325,SYN002189,balance,N/A,,9610.52,True
+3374,SYN009147,balance, ,,310479750.0,True
+3388,SYN006450,balance, ,,36886.4,True
+3466,SYN009687,balance,error,,713779.0,True
+3595,SYN006194,balance,null,,13393053.33,True
+3644,SYN001957,balance,missing,,1244400.0,True
+3646,SYN002972,balance,,,12068.9,True
+3747,SYN007892,balance,N/A,,336476.79,True
+3919,SYN006799,balance,NA,,1080263.53,True
+3952,SYN005221,balance,null,,58643.55,True
+4080,SYN004982,balance, ,,17840015.384999998,True
+4221,SYN002282,balance,,,12068.9,True
+4245,SYN003830,balance,missing,,4147794.6450000005,True
+4269,SYN006373,balance,NA,,58643.55,True
+4320,SYN003977,balance,error,,4203.995,True
+4359,SYN005224,balance,,,1571667.165,True
+4372,SYN008738,balance,,,502237.2,True
+4373,SYN009111,balance, ,,47300.33,True
+4390,SYN001834,balance,missing,,22450.195,True
+4424,SYN005555,balance,null,,36886.4,True
+4492,SYN005013,balance,N/A,,502237.2,True
+4583,SYN001042,balance,NA,,,False
+4716,SYN001720,balance, ,,91163.89499999999,True
+4727,SYN003716,balance,missing,,4147794.6450000005,True
+4769,SYN002967,balance,unknown,,17882653.33,True
+4826,SYN000013,balance, ,,12068.9,True
+4887,SYN006685,balance,abc,,17882653.33,True
+4982,SYN008024,balance,NaN,,17882653.33,True
+4993,SYN004810,balance,null,,16133.48,True
+5059,SYN000398,balance,unknown,,1080263.53,True
+5074,SYN004280,balance,missing,,3866334.8449999997,True
+5098,SYN003525,balance,null,,1244400.0,True
+5205,SYN009315,balance, ,,12068.9,True
+5269,SYN008164,balance,null,,50673.145000000004,True
+5278,SYN005707,balance,N/A,,47300.33,True
+5295,SYN005549,balance, ,,4147794.6450000005,True
+5337,SYN003285,balance,NaN,,4920.35,True
+5425,SYN007983,balance,,,1080263.53,True
+5432,SYN005804,balance,NaN,,7495680.0,True
+5490,SYN003946,balance,null,,63630.32,True
+5506,SYN001150,balance,missing,,46694.06,True
+5627,SYN000396,balance,NA,,828108.335,True
+5730,SYN004294,balance,NaN,,45692.15,True
+5739,SYN001719,balance,abc,,675859.2,True
+5857,SYN005024,balance, ,,10461.48,True
+5869,SYN008936,balance,,,400930.33,True
+5896,SYN002526,balance,missing,,3866334.8449999997,True
+5914,SYN007117,balance,NaN,,290933492.065,True
+6051,SYN005068,balance,missing,,12068.9,True
+6056,SYN000747,balance,unknown,,310479750.0,True
+6215,SYN002344,balance,N/A,,9610.52,True
+6278,SYN006580,balance,error,,2293530.0,True
+6285,SYN008474,balance,NA,,10100.885,True
+6491,SYN008098,balance,NA,,12068.9,True
+6501,SYN008869,balance,null,,337904.55,True
+6527,SYN002258,balance,NaN,,10100.885,True
+6555,SYN003932,balance,NaN,,12068.9,True
+6600,SYN007973,balance,null,,10461.48,True
+6646,SYN000040,balance,,,121829.3,True
+6826,SYN002070,balance,,,63630.32,True
+6869,SYN008506,balance,,,12068.9,True
+6891,SYN009475,balance,,,258296.925,True
+6928,SYN006477,balance,not recorded,,17882653.33,True
+7012,SYN004940,balance,NaN,,24752.77,True
+7019,SYN008903,balance, ,,336476.79,True
+7020,SYN005410,balance,missing,,4203.995,True
+7035,SYN008720,balance,,,336476.79,True
+7083,SYN006430,balance,NA,,7495680.0,True
+7202,SYN008300,balance,NaN,,60056460.0,True
+7212,SYN007820,balance, ,,3866334.8449999997,True
+7219,SYN004196,balance,null,,22450.195,True
+7253,SYN009162,balance,N/A,,12068.9,True
+7455,SYN005288,balance,not recorded,,36886.4,True
+7535,SYN000710,balance,,,675859.2,True
+7601,SYN007886,balance,unknown,,12068.9,True
+7746,SYN001279,balance,error,,,False
+7947,SYN005323,balance,,,4147794.6450000005,True
+7999,SYN008232,balance,,,400930.33,True
+8010,SYN001537,balance,NA,,1571667.165,True
+8244,SYN004511,balance, ,,35455.78,True
+8290,SYN007313,balance,null,,60056460.0,True
+8315,SYN004439,balance,NaN,,4147794.6450000005,True
+8346,SYN002484,balance, ,,50673.145000000004,True
+8494,SYN007029,balance,not recorded,,12068.9,True
+8542,SYN000445,balance,null,,126315.89,True
+8583,SYN005778,balance, ,,45692.15,True
+8616,SYN008453,balance,N/A,,39135.485,True
+8859,SYN004633,balance,NA,,400930.33,True
+8898,SYN004248,balance,error,,310479750.0,True
+8900,SYN003670,balance, ,,126315.89,True
+8960,SYN006495,balance,null,,10100.885,True
+9100,SYN007838,balance,N/A,,97509.20000000001,True
+9179,SYN008762,balance,,,13393053.33,True
+9232,SYN003193,balance,not recorded,,337904.55,True
+9240,SYN004030,balance,N/A,,180668000.0,True
+9241,SYN004796,balance,,,4203.995,True
+9258,SYN002737,balance,NaN,,58643.55,True
+9290,SYN006491,balance,,,17882653.33,True
+9298,SYN005842,balance,N/A,,10934.5,True
+9405,SYN009038,balance,NA,,11381470.0,True
+9506,SYN003784,balance,NA,,258296.925,True
+9578,SYN003284,balance,unknown,,10934.5,True
+9646,SYN007994,balance,not recorded,,13393053.33,True
+9650,SYN000837,balance,missing,,12068.9,True
+9719,SYN007486,balance,abc,,10100.885,True
+9821,SYN006635,balance,N/A,,12068.9,True
+9854,SYN001849,balance,null,,35455.78,True
+9968,SYN008852,balance,abc,,2293530.0,True
+25,SYN007865,estimated_salary,null,,1664933.0,True
+38,SYN004326,estimated_salary,NaN,,31391.39,True
+49,SYN004872,estimated_salary,null,,5232056.72,True
+62,SYN007283,estimated_salary,unknown,,5117427.025,True
+67,SYN000261,estimated_salary,NaN,,257675.64,True
+79,SYN005832,estimated_salary,null,,167696.20500000002,True
+122,SYN000850,estimated_salary,null,,1108939.67,True
+229,SYN005020,estimated_salary,,,59303.15,True
+234,SYN000441,estimated_salary,null,,31391.39,True
+361,SYN004461,estimated_salary,,,9777705.555,True
+431,SYN002132,estimated_salary,N/A,,139127.24,True
+551,SYN008924,estimated_salary,NA,,10949057.58,True
+649,SYN005935,estimated_salary,null,,31391.39,True
+763,SYN000819,estimated_salary,null,,31391.39,True
+787,SYN004859,estimated_salary,N/A,,135275.26,True
+942,SYN000979,estimated_salary,NaN,,159263629.63,True
+958,SYN002573,estimated_salary,,,48764.53,True
+962,SYN002790,estimated_salary,error,,4663047.335,True
+1052,SYN007175,estimated_salary,unknown,,24279.42,True
+1214,SYN002524,estimated_salary,missing,,1481142.2,True
+1283,SYN002006,estimated_salary,missing,,411779687.5,True
+1291,SYN001960,estimated_salary,,,159263629.63,True
+1334,SYN002792,estimated_salary,not recorded,,1375231.0,True
+1359,SYN001903,estimated_salary,NA,,12508.11,True
+1379,SYN008684,estimated_salary,missing,,167696.20500000002,True
+1381,SYN007664,estimated_salary,unknown,,31391.39,True
+1428,SYN000882,estimated_salary,abc,,2964778.33,True
+1545,SYN006542,estimated_salary,NA,,597169365.08,True
+1564,SYN002814,estimated_salary,N/A,,31391.39,True
+1603,SYN001417,estimated_salary,,,3794137.65,True
+1620,SYN008408,estimated_salary, ,,47931.04,True
+1653,SYN007082,estimated_salary,null,,47931.04,True
+1766,SYN003930,estimated_salary,NaN,,411779687.5,True
+1963,SYN005197,estimated_salary,N/A,,643863.4,True
+1965,SYN003264,estimated_salary,missing,,31391.39,True
+1978,SYN006826,estimated_salary,NA,,139127.24,True
+2038,SYN002276,estimated_salary,NA,,31391.39,True
+2062,SYN005147,estimated_salary,unknown,,1481142.2,True
+2149,SYN001613,estimated_salary,NA,,1375231.0,True
+2382,SYN000749,estimated_salary, ,,1375231.0,True
+2387,SYN009228,estimated_salary,unknown,,28629481.82,True
+2470,SYN007398,estimated_salary,,,126494.28,True
+2497,SYN004979,estimated_salary,NaN,,31391.39,True
+2592,SYN005964,estimated_salary,null,,31391.39,True
+2593,SYN002011,estimated_salary,null,,257675.64,True
+2717,SYN008528,estimated_salary,missing,,5117427.025,True
+2753,SYN005583,estimated_salary,,,166460.95,True
+2837,SYN004779,estimated_salary,NA,,109180.47,True
+2944,SYN001308,estimated_salary,missing,,134556.19,True
+2992,SYN005600,estimated_salary,,,34055.625,True
+3143,SYN004971,estimated_salary,NaN,,524161.78500000003,True
+3154,SYN008528,estimated_salary,missing,,5117427.025,True
+3225,SYN001607,estimated_salary,,,31391.39,True
+3360,SYN008573,estimated_salary,error,,31391.39,True
+3377,SYN004947,estimated_salary,NA,,34055.625,True
+3428,SYN001325,estimated_salary,NA,,31391.39,True
+3479,SYN001743,estimated_salary,NaN,,736948.36,True
+3584,SYN006927,estimated_salary,null,,257675.64,True
+3758,SYN008131,estimated_salary,N/A,,2964778.33,True
+3772,SYN008526,estimated_salary,not recorded,,167696.20500000002,True
+3803,SYN006749,estimated_salary,,,167696.20500000002,True
+3818,SYN003767,estimated_salary, ,,135275.26,True
+3992,SYN003965,estimated_salary,NaN,,28653.06,True
+4046,SYN001548,estimated_salary, ,,28653.06,True
+4049,SYN007792,estimated_salary, ,,166460.95,True
+4086,SYN005843,estimated_salary, ,,391734.42,True
+4169,SYN009490,estimated_salary,missing,,127022.545,True
+4341,SYN003398,estimated_salary,N/A,,31391.39,True
+4392,SYN008932,estimated_salary, ,,109180.47,True
+4521,SYN006531,estimated_salary,,,34055.625,True
+4563,SYN001478,estimated_salary,,,135275.26,True
+4764,SYN006963,estimated_salary,missing,,31391.39,True
+4771,SYN002567,estimated_salary,NA,,9255.24,True
+4797,SYN004604,estimated_salary,null,,9255.24,True
+4889,SYN009392,estimated_salary,,,2964778.33,True
+4913,SYN006242,estimated_salary,missing,,391734.42,True
+5017,SYN007066,estimated_salary,NaN,,31391.39,True
+5027,SYN004704,estimated_salary,NA,,736948.36,True
+5042,SYN001547,estimated_salary,missing,,31391.39,True
+5071,SYN009329,estimated_salary, ,,31826.275,True
+5087,SYN008682,estimated_salary,abc,,159263629.63,True
+5198,SYN007322,estimated_salary,null,,643863.4,True
+5215,SYN007807,estimated_salary,unknown,,142523.76,True
+5276,SYN006587,estimated_salary,null,,54882361.54,True
+5285,SYN001206,estimated_salary,null,,31391.39,True
+5477,SYN009270,estimated_salary,null,,397308.4,True
+5525,SYN007569,estimated_salary,not recorded,,100368315.79,True
+5562,SYN002781,estimated_salary,NaN,,4663047.335,True
+5598,SYN001393,estimated_salary,abc,,127022.545,True
+5634,SYN001674,estimated_salary,null,,257675.64,True
+5729,SYN006693,estimated_salary,NA,,31391.39,True
+5823,SYN009161,estimated_salary,unknown,,142523.76,True
+5937,SYN001803,estimated_salary,NaN,,2065182.22,True
+6052,SYN006652,estimated_salary,abc,,127022.545,True
+6078,SYN009060,estimated_salary, ,,17135635.0,True
+6090,SYN009110,estimated_salary,missing,,109180.47,True
+6106,SYN001235,estimated_salary,not recorded,,59303.15,True
+6165,SYN008295,estimated_salary,N/A,,12393592.855,True
+6257,SYN002032,estimated_salary,missing,,2065182.22,True
+6379,SYN004859,estimated_salary,N/A,,135275.26,True
+6424,SYN008010,estimated_salary,missing,,17135635.0,True
+6450,SYN006720,estimated_salary,NaN,,31391.39,True
+6489,SYN007376,estimated_salary,missing,,100368315.79,True
+6540,SYN007833,estimated_salary,null,,827742750.0,True
+6629,SYN002807,estimated_salary,,,827742750.0,True
+6765,SYN007668,estimated_salary,not recorded,,28653.06,True
+6855,SYN000745,estimated_salary,NaN,,135275.26,True
+6970,SYN009542,estimated_salary,unknown,,12508.11,True
+7067,SYN007755,estimated_salary, ,,1108939.67,True
+7112,SYN007279,estimated_salary,NA,,31391.39,True
+7163,SYN006786,estimated_salary,NaN,,12508.11,True
+7246,SYN004673,estimated_salary, ,,126494.28,True
+7338,SYN008374,estimated_salary,missing,,126494.28,True
+7342,SYN000446,estimated_salary,,,391734.42,True
+7392,SYN005741,estimated_salary,N/A,,31391.39,True
+7402,SYN004763,estimated_salary,null,,31391.39,True
+7524,SYN007172,estimated_salary,NaN,,153536.82,True
+7566,SYN007349,estimated_salary,missing,,28653.06,True
+7584,SYN001220,estimated_salary,null,,142523.76,True
+7656,SYN002132,estimated_salary,N/A,,139127.24,True
+7799,SYN000641,estimated_salary,,,28653.06,True
+7974,SYN007904,estimated_salary,N/A,,3794137.65,True
+8139,SYN002712,estimated_salary,NaN,,34055.625,True
+8203,SYN003439,estimated_salary,,,109180.47,True
+8459,SYN005925,estimated_salary,,,31391.39,True
+8480,SYN002067,estimated_salary,unknown,,139127.24,True
+8501,SYN003102,estimated_salary,unknown,,257675.64,True
+8570,SYN002397,estimated_salary, ,,31391.39,True
+8595,SYN000071,estimated_salary,missing,,34055.625,True
+8627,SYN004463,estimated_salary,not recorded,,159263629.63,True
+8638,SYN001746,estimated_salary,missing,,31391.39,True
+8643,SYN009170,estimated_salary,null,,166460.95,True
+8745,SYN000614,estimated_salary,null,,47931.04,True
+8761,SYN009466,estimated_salary,null,,5117427.025,True
+8763,SYN003754,estimated_salary,NaN,,100368315.79,True
+8958,SYN006207,estimated_salary,error,,31391.39,True
+9015,SYN008956,estimated_salary,NA,,127022.545,True
+9042,SYN001703,estimated_salary,null,,5232056.72,True
+9056,SYN005314,estimated_salary,unknown,,31391.39,True
+9106,SYN000682,estimated_salary,null,,5232056.72,True
+9126,SYN004120,estimated_salary,unknown,,166460.95,True
+9132,SYN000825,estimated_salary,N/A,,1375231.0,True
+9163,SYN004369,estimated_salary,abc,,31391.39,True
+9397,SYN002321,estimated_salary,error,,597169365.08,True
+9437,SYN004440,estimated_salary,null,,2065182.22,True
+9446,SYN006776,estimated_salary,NaN,,397308.4,True
+9596,SYN001615,estimated_salary,missing,,31391.39,True
+9613,SYN005561,estimated_salary,NaN,,31391.39,True
+9630,SYN007654,estimated_salary,not recorded,,139127.24,True
+9680,SYN007829,estimated_salary,NA,,5232056.72,True
+9752,SYN008450,estimated_salary,abc,,411779687.5,True
+9755,SYN006452,estimated_salary,,,139127.24,True
+9817,SYN002352,estimated_salary,,,31391.39,True
+9831,SYN002979,estimated_salary,,,197715.135,True
+9906,SYN006280,estimated_salary,NaN,,167696.20500000002,True
+9986,SYN008484,estimated_salary,N/A,,1375231.0,True
+78,SYN002275,bitcoin_btc,NA,,,False
+188,SYN002357,bitcoin_btc,NaN,,,False
+218,SYN000801,bitcoin_btc,not recorded,,,False
+326,SYN009380,bitcoin_btc,not recorded,,,False
+461,SYN002867,bitcoin_btc,NaN,,,False
+467,SYN001199,bitcoin_btc,NA,,,False
+618,SYN004924,bitcoin_btc,NA,,,False
+640,SYN004647,bitcoin_btc,null,,,False
+730,SYN005174,bitcoin_btc,missing,,,False
+732,SYN007202,bitcoin_btc,,,,False
+744,SYN001464,bitcoin_btc,missing,,,False
+820,SYN008851,bitcoin_btc,NA,,,False
+894,SYN004597,bitcoin_btc,NA,,,False
+920,SYN009572,bitcoin_btc,abc,,,False
+958,SYN002573,bitcoin_btc,NA,,,False
+1017,SYN009292,bitcoin_btc,null,,,False
+1114,SYN004397,bitcoin_btc, ,,,False
+1151,SYN009035,bitcoin_btc,unknown,,,False
+1253,SYN003190,bitcoin_btc,error,,,False
+1263,SYN007905,bitcoin_btc,NA,,,False
+1309,SYN004338,bitcoin_btc,unknown,,,False
+1441,SYN004836,bitcoin_btc,null,,,False
+1510,SYN006707,bitcoin_btc,NA,,,False
+1545,SYN006542,bitcoin_btc, ,,,False
+1573,SYN008075,bitcoin_btc,N/A,,,False
+1620,SYN008408,bitcoin_btc,error,,,False
+1681,SYN003855,bitcoin_btc, ,,,False
+1702,SYN006765,bitcoin_btc,,,,False
+1731,SYN003694,bitcoin_btc,,,,False
+1810,SYN005382,bitcoin_btc,missing,,,False
+1830,SYN003428,bitcoin_btc,NaN,,,False
+1831,SYN001795,bitcoin_btc, ,,,False
+1836,SYN006175,bitcoin_btc,null,,,False
+1840,SYN002700,bitcoin_btc, ,,,False
+1906,SYN008266,bitcoin_btc,unknown,,,False
+1916,SYN000062,bitcoin_btc,unknown,,,False
+1939,SYN008308,bitcoin_btc,N/A,,,False
+2131,SYN003806,bitcoin_btc,not recorded,,,False
+2185,SYN002610,bitcoin_btc,missing,,,False
+2356,SYN008084,bitcoin_btc,abc,,,False
+2445,SYN002131,bitcoin_btc,unknown,,,False
+2560,SYN001940,bitcoin_btc,NaN,,,False
+2564,SYN005645,bitcoin_btc,missing,,,False
+2726,SYN006589,bitcoin_btc, ,,,False
+2732,SYN002576,bitcoin_btc,missing,,,False
+2771,SYN004143,bitcoin_btc,NaN,,,False
+2812,SYN004410,bitcoin_btc,,,,False
+2817,SYN000889,bitcoin_btc,,,,False
+2818,SYN003907,bitcoin_btc,error,,,False
+2829,SYN003738,bitcoin_btc,,,,False
+2871,SYN009634,bitcoin_btc, ,,,False
+2908,SYN003992,bitcoin_btc,error,,,False
+3013,SYN003403,bitcoin_btc,missing,,,False
+3036,SYN002843,bitcoin_btc,unknown,,,False
+3054,SYN001342,bitcoin_btc,error,,,False
+3091,SYN009285,bitcoin_btc,NaN,,,False
+3212,SYN006617,bitcoin_btc,not recorded,,,False
+3323,SYN005364,bitcoin_btc,N/A,,,False
+3345,SYN008136,bitcoin_btc,NaN,,,False
+3383,SYN004566,bitcoin_btc,N/A,,,False
+3469,SYN003547,bitcoin_btc,NaN,,,False
+3547,SYN002532,bitcoin_btc,missing,,,False
+3603,SYN009567,bitcoin_btc,error,,,False
+3605,SYN007306,bitcoin_btc,NA,,,False
+3687,SYN001949,bitcoin_btc,N/A,,,False
+3721,SYN007255,bitcoin_btc,not recorded,,,False
+3817,SYN003164,bitcoin_btc,,,,False
+3877,SYN002835,bitcoin_btc,unknown,,,False
+3910,SYN008964,bitcoin_btc,error,,,False
+3919,SYN006799,bitcoin_btc,NaN,,,False
+3922,SYN008917,bitcoin_btc,not recorded,,,False
+3927,SYN005966,bitcoin_btc,N/A,,,False
+4084,SYN008825,bitcoin_btc,error,,,False
+4156,SYN004999,bitcoin_btc,null,,,False
+4208,SYN006923,bitcoin_btc,N/A,,,False
+4219,SYN003324,bitcoin_btc,NA,,,False
+4225,SYN003512,bitcoin_btc,,,,False
+4296,SYN004043,bitcoin_btc,NA,,,False
+4328,SYN005031,bitcoin_btc,missing,,,False
+4450,SYN007933,bitcoin_btc,missing,,,False
+4458,SYN000595,bitcoin_btc,N/A,,,False
+4502,SYN009481,bitcoin_btc,,,,False
+4527,SYN001987,bitcoin_btc,missing,,,False
+4620,SYN009154,bitcoin_btc,null,,,False
+4649,SYN002173,bitcoin_btc, ,,,False
+4670,SYN007140,bitcoin_btc,missing,,,False
+4702,SYN000949,bitcoin_btc,N/A,,,False
+4754,SYN006181,bitcoin_btc,unknown,,,False
+4789,SYN008134,bitcoin_btc,missing,,,False
+4813,SYN008359,bitcoin_btc,unknown,,,False
+4894,SYN004302,bitcoin_btc, ,,,False
+4929,SYN008915,bitcoin_btc, ,,,False
+4959,SYN003681,bitcoin_btc,error,,,False
+4971,SYN004040,bitcoin_btc,error,,,False
+4998,SYN004746,bitcoin_btc,null,,,False
+5104,SYN000875,bitcoin_btc,abc,,,False
+5159,SYN007587,bitcoin_btc,unknown,,,False
+5310,SYN000527,bitcoin_btc,N/A,,,False
+5312,SYN001169,bitcoin_btc,abc,,,False
+5369,SYN006494,bitcoin_btc,null,,,False
+5479,SYN007024,bitcoin_btc,missing,,,False
+5497,SYN000239,bitcoin_btc, ,,,False
+5606,SYN007432,bitcoin_btc,abc,,,False
+5614,SYN000361,bitcoin_btc,null,,,False
+5616,SYN008662,bitcoin_btc,error,,,False
+5741,SYN003088,bitcoin_btc,null,,,False
+5800,SYN008835,bitcoin_btc,unknown,,,False
+5807,SYN000829,bitcoin_btc, ,,,False
+5821,SYN007234,bitcoin_btc,error,,,False
+5838,SYN003609,bitcoin_btc,N/A,,,False
+5845,SYN001545,bitcoin_btc, ,,,False
+5873,SYN000417,bitcoin_btc,NaN,,,False
+5961,SYN006903,bitcoin_btc,NA,,,False
+6001,SYN002375,bitcoin_btc, ,,,False
+6018,SYN004194,bitcoin_btc,,,,False
+6107,SYN002477,bitcoin_btc,NaN,,,False
+6156,SYN007948,bitcoin_btc,missing,,,False
+6209,SYN003291,bitcoin_btc, ,,,False
+6265,SYN006307,bitcoin_btc,null,,,False
+6325,SYN003550,bitcoin_btc,N/A,,,False
+6355,SYN004934,bitcoin_btc,abc,,,False
+6481,SYN008850,bitcoin_btc,NaN,,,False
+6595,SYN008222,bitcoin_btc,not recorded,,,False
+6612,SYN000377,bitcoin_btc,error,,,False
+6648,SYN004710,bitcoin_btc,NaN,,,False
+6813,SYN005132,bitcoin_btc,N/A,,,False
+6931,SYN005900,bitcoin_btc, ,,,False
+6977,SYN004086,bitcoin_btc,NA,,,False
+7046,SYN004259,bitcoin_btc,N/A,,,False
+7101,SYN000345,bitcoin_btc,missing,,,False
+7132,SYN005782,bitcoin_btc,N/A,,,False
+7184,SYN001949,bitcoin_btc,N/A,,,False
+7287,SYN003709,bitcoin_btc,N/A,,,False
+7297,SYN008401,bitcoin_btc, ,,,False
+7314,SYN008702,bitcoin_btc,NaN,,,False
+7331,SYN007574,bitcoin_btc,N/A,,,False
+7533,SYN007563,bitcoin_btc,unknown,,,False
+7675,SYN008378,bitcoin_btc,N/A,,,False
+7831,SYN009451,bitcoin_btc,,,,False
+7919,SYN008582,bitcoin_btc,NA,,,False
+7923,SYN006896,bitcoin_btc,abc,,,False
+8006,SYN001939,bitcoin_btc, ,,,False
+8078,SYN007999,bitcoin_btc,null,,,False
+8131,SYN000155,bitcoin_btc,NA,,,False
+8150,SYN003000,bitcoin_btc,abc,,,False
+8159,SYN007389,bitcoin_btc,missing,,,False
+8160,SYN003982,bitcoin_btc,,,,False
+8238,SYN000822,bitcoin_btc,null,,,False
+8417,SYN004513,bitcoin_btc,unknown,,,False
+8513,SYN000406,bitcoin_btc,null,,,False
+8559,SYN007677,bitcoin_btc,NA,,,False
+8560,SYN003734,bitcoin_btc,null,,,False
+8599,SYN000185,bitcoin_btc, ,,,False
+8810,SYN005682,bitcoin_btc,NaN,,,False
+8857,SYN009300,bitcoin_btc,,,,False
+8861,SYN002451,bitcoin_btc,NA,,,False
+8944,SYN008719,bitcoin_btc, ,,,False
+9013,SYN007663,bitcoin_btc,missing,,,False
+9060,SYN002605,bitcoin_btc,N/A,,,False
+9096,SYN006612,bitcoin_btc,N/A,,,False
+9168,SYN004862,bitcoin_btc,N/A,,,False
+9190,SYN003207,bitcoin_btc,,,,False
+9199,SYN008656,bitcoin_btc,unknown,,,False
+9273,SYN004655,bitcoin_btc,not recorded,,,False
+9466,SYN000300,bitcoin_btc,unknown,,,False
+9476,SYN002986,bitcoin_btc,abc,,,False
+9541,SYN001898,bitcoin_btc,null,,,False
+9563,SYN003602,bitcoin_btc,NaN,,,False
+9604,SYN004371,bitcoin_btc,null,,,False
+9690,SYN003902,bitcoin_btc,N/A,,,False
+9756,SYN006007,bitcoin_btc,,,,False
+9886,SYN008008,bitcoin_btc, ,,,False
+9982,SYN001165,bitcoin_btc,error,,,False
+4,SYN003648,fixed_deposit,NA,,0.0,True
+104,SYN003953,fixed_deposit, ,,13726.515,True
+127,SYN002029,fixed_deposit,missing,,0.0,True
+181,SYN006640,fixed_deposit,,,553456.0,True
+183,SYN004092,fixed_deposit,missing,,26482200.0,True
+211,SYN004442,fixed_deposit, ,,0.0,True
+316,SYN005218,fixed_deposit, ,,0.0,True
+486,SYN003095,fixed_deposit,NaN,,0.0,True
+524,SYN003880,fixed_deposit, ,,0.0,True
+607,SYN001486,fixed_deposit,N/A,,0.0,True
+609,SYN000173,fixed_deposit,error,,0.0,True
+636,SYN007421,fixed_deposit,NA,,0.0,True
+695,SYN007409,fixed_deposit, ,,1891944.78,True
+795,SYN008802,fixed_deposit,N/A,,7011.97,True
+952,SYN001194,fixed_deposit,,,0.0,True
+1001,SYN002652,fixed_deposit,NaN,,0.0,True
+1016,SYN005676,fixed_deposit,NA,,1891944.78,True
+1036,SYN001190,fixed_deposit,NA,,0.0,True
+1064,SYN000008,fixed_deposit,abc,,0.0,True
+1074,SYN005220,fixed_deposit,NA,,0.0,True
+1156,SYN002213,fixed_deposit,,,34939.71,True
+1241,SYN006184,fixed_deposit, ,,0.0,True
+1317,SYN003123,fixed_deposit, ,,0.0,True
+1320,SYN002515,fixed_deposit,N/A,,0.0,True
+1340,SYN006871,fixed_deposit,missing,,0.0,True
+1375,SYN005776,fixed_deposit,NA,,0.0,True
+1461,SYN005100,fixed_deposit,,,0.0,True
+1525,SYN007318,fixed_deposit, ,,34939.71,True
+1602,SYN004828,fixed_deposit,unknown,,0.0,True
+1688,SYN001479,fixed_deposit,null,,1891944.78,True
+1702,SYN006765,fixed_deposit,NA,,0.0,True
+1740,SYN000295,fixed_deposit,N/A,,0.0,True
+1804,SYN009296,fixed_deposit,NA,,5603827.27,True
+1882,SYN007099,fixed_deposit, ,,34939.71,True
+1939,SYN008308,fixed_deposit, ,,396836.0,True
+1961,SYN004000,fixed_deposit,NaN,,0.0,True
+2101,SYN007165,fixed_deposit,,,0.0,True
+2168,SYN003334,fixed_deposit,NaN,,0.0,True
+2209,SYN007684,fixed_deposit,N/A,,0.0,True
+2245,SYN008935,fixed_deposit,not recorded,,5603827.27,True
+2266,SYN005180,fixed_deposit, ,,0.0,True
+2269,SYN000757,fixed_deposit,NA,,1891944.78,True
+2440,SYN009675,fixed_deposit,null,,553456.0,True
+2463,SYN000089,fixed_deposit,null,,0.0,True
+2513,SYN009477,fixed_deposit,not recorded,,156255.685,True
+2523,SYN006702,fixed_deposit, ,,0.0,True
+2607,SYN008326,fixed_deposit,missing,,1891944.78,True
+2646,SYN008432,fixed_deposit,,,1891944.78,True
+2712,SYN007169,fixed_deposit,NA,,0.0,True
+2744,SYN009180,fixed_deposit,NA,,0.0,True
+2747,SYN005195,fixed_deposit,abc,,0.0,True
+2749,SYN007824,fixed_deposit,NaN,,0.0,True
+2756,SYN009011,fixed_deposit,N/A,,0.0,True
+2778,SYN002362,fixed_deposit,N/A,,23925853.33,True
+2822,SYN009616,fixed_deposit,,,553456.0,True
+3061,SYN004817,fixed_deposit, ,,9844.244999999999,True
+3139,SYN004712,fixed_deposit,null,,0.0,True
+3183,SYN002368,fixed_deposit,null,,553456.0,True
+3199,SYN003989,fixed_deposit, ,,0.0,True
+3242,SYN006008,fixed_deposit,NA,,0.0,True
+3398,SYN001713,fixed_deposit,null,,0.0,True
+3437,SYN003527,fixed_deposit,N/A,,2557.89,True
+3541,SYN005603,fixed_deposit,NA,,156255.685,True
+3569,SYN001835,fixed_deposit,NaN,,0.0,True
+3672,SYN007137,fixed_deposit,unknown,,13010.255000000001,True
+3731,SYN008237,fixed_deposit,,,0.0,True
+3732,SYN007133,fixed_deposit,,,0.0,True
+3833,SYN007925,fixed_deposit,NA,,0.0,True
+3884,SYN008275,fixed_deposit,N/A,,13010.255000000001,True
+4037,SYN001278,fixed_deposit,NA,,6066766.67,True
+4072,SYN001721,fixed_deposit,unknown,,0.0,True
+4119,SYN000925,fixed_deposit,,,0.0,True
+4193,SYN005568,fixed_deposit,NaN,,13447.785,True
+4200,SYN008000,fixed_deposit,missing,,399915.33499999996,True
+4209,SYN004475,fixed_deposit,NaN,,0.0,True
+4272,SYN006157,fixed_deposit,not recorded,,6897212.5,True
+4343,SYN005507,fixed_deposit,N/A,,0.0,True
+4397,SYN003425,fixed_deposit,NaN,,30017118.42,True
+4434,SYN004033,fixed_deposit,null,,0.0,True
+4494,SYN000411,fixed_deposit,NA,,13447.785,True
+4495,SYN003633,fixed_deposit,abc,,5603827.27,True
+4570,SYN001930,fixed_deposit,NA,,396836.0,True
+4715,SYN008663,fixed_deposit,NaN,,0.0,True
+4721,SYN004246,fixed_deposit,error,,2557.89,True
+4846,SYN005125,fixed_deposit,not recorded,,0.0,True
+4856,SYN007934,fixed_deposit,missing,,13726.515,True
+4882,SYN008251,fixed_deposit,NaN,,13010.255000000001,True
+4951,SYN004649,fixed_deposit,abc,,0.0,True
+5037,SYN003813,fixed_deposit,missing,,0.0,True
+5061,SYN000984,fixed_deposit,null,,0.0,True
+5091,SYN009509,fixed_deposit,NA,,26482200.0,True
+5259,SYN006636,fixed_deposit,not recorded,,0.0,True
+5260,SYN004931,fixed_deposit, ,,288910.4,True
+5336,SYN007739,fixed_deposit,NaN,,748091.5,True
+5340,SYN006434,fixed_deposit,NaN,,1122670.83,True
+5358,SYN002203,fixed_deposit,error,,0.0,True
+5410,SYN008306,fixed_deposit,NaN,,0.0,True
+5437,SYN007404,fixed_deposit, ,,0.0,True
+5551,SYN002976,fixed_deposit,missing,,0.0,True
+5594,SYN004475,fixed_deposit,NaN,,0.0,True
+5687,SYN004965,fixed_deposit,null,,0.0,True
+5755,SYN003912,fixed_deposit,NA,,0.0,True
+5803,SYN002483,fixed_deposit,N/A,,34939.71,True
+5994,SYN006748,fixed_deposit,NA,,0.0,True
+6010,SYN008250,fixed_deposit,not recorded,,0.0,True
+6108,SYN008846,fixed_deposit,missing,,0.0,True
+6162,SYN005297,fixed_deposit,,,0.0,True
+6311,SYN003964,fixed_deposit,,,6066766.67,True
+6383,SYN001040,fixed_deposit,NA,,5603827.27,True
+6388,SYN005043,fixed_deposit,missing,,0.0,True
+6396,SYN003126,fixed_deposit, ,,396836.0,True
+6404,SYN004313,fixed_deposit, ,,0.0,True
+6492,SYN009187,fixed_deposit,NaN,,7011.97,True
+6537,SYN007538,fixed_deposit,abc,,0.0,True
+6564,SYN002697,fixed_deposit,null,,0.0,True
+6685,SYN008944,fixed_deposit,missing,,0.0,True
+6730,SYN009415,fixed_deposit,null,,0.0,True
+6773,SYN002325,fixed_deposit,N/A,,0.0,True
+6780,SYN004850,fixed_deposit,N/A,,0.0,True
+6795,SYN008584,fixed_deposit,missing,,0.0,True
+6798,SYN000906,fixed_deposit,null,,0.0,True
+6803,SYN000404,fixed_deposit,N/A,,7011.97,True
+6805,SYN003967,fixed_deposit,N/A,,0.0,True
+6916,SYN007384,fixed_deposit,NA,,1122670.83,True
+6917,SYN003447,fixed_deposit,N/A,,0.0,True
+7015,SYN008009,fixed_deposit,,,0.0,True
+7055,SYN004791,fixed_deposit,N/A,,0.0,True
+7069,SYN007012,fixed_deposit,missing,,0.0,True
+7094,SYN004603,fixed_deposit,NaN,,0.0,True
+7115,SYN004184,fixed_deposit,NA,,0.0,True
+7150,SYN005787,fixed_deposit, ,,0.0,True
+7264,SYN008592,fixed_deposit,NA,,0.0,True
+7317,SYN006824,fixed_deposit,NaN,,118865873.015,True
+7321,SYN008384,fixed_deposit,not recorded,,0.0,True
+7336,SYN006253,fixed_deposit,null,,0.0,True
+7461,SYN006986,fixed_deposit,NaN,,0.0,True
+7525,SYN007570,fixed_deposit,not recorded,,0.0,True
+7534,SYN002019,fixed_deposit,null,,8156.77,True
+7538,SYN004340,fixed_deposit,N/A,,0.0,True
+7566,SYN007349,fixed_deposit,abc,,0.0,True
+7699,SYN001567,fixed_deposit,,,0.0,True
+7706,SYN000679,fixed_deposit,null,,6066766.67,True
+7757,SYN007034,fixed_deposit, ,,0.0,True
+7814,SYN000479,fixed_deposit,null,,0.0,True
+7861,SYN006038,fixed_deposit,error,,0.0,True
+7966,SYN002857,fixed_deposit,,,0.0,True
+8077,SYN007644,fixed_deposit,null,,9844.244999999999,True
+8097,SYN006854,fixed_deposit,null,,9844.244999999999,True
+8147,SYN002788,fixed_deposit,missing,,0.0,True
+8411,SYN000310,fixed_deposit, ,,,False
+8469,SYN004430,fixed_deposit,NaN,,6066766.67,True
+8505,SYN002861,fixed_deposit,,,0.0,True
+8581,SYN003031,fixed_deposit,unknown,,0.0,True
+8675,SYN007589,fixed_deposit,,,30017118.42,True
+8790,SYN003674,fixed_deposit,abc,,0.0,True
+8804,SYN008457,fixed_deposit,NaN,,396836.0,True
+8898,SYN004248,fixed_deposit,,,0.0,True
+8935,SYN005336,fixed_deposit,missing,,0.0,True
+9143,SYN003778,fixed_deposit,NA,,0.0,True
+9164,SYN007423,fixed_deposit,N/A,,0.0,True
+9178,SYN000091,fixed_deposit,NA,,0.0,True
+9219,SYN004380,fixed_deposit,NA,,7011.97,True
+9266,SYN009383,fixed_deposit,N/A,,,False
+9320,SYN001956,fixed_deposit,NA,,0.0,True
+9330,SYN004494,fixed_deposit, ,,6309696.43,True
+9355,SYN003880,fixed_deposit, ,,0.0,True
+9523,SYN007951,fixed_deposit,N/A,,0.0,True
+9808,SYN009361,fixed_deposit, ,,13447.785,True
+9830,SYN008364,fixed_deposit,NA,,142306.0,True
+70,SYN004357,loan_balance,,,4855.74,True
+76,SYN005725,loan_balance,NaN,,140220.5,True
+109,SYN007450,loan_balance,,,0.0,True
+256,SYN008562,loan_balance,NA,,0.0,True
+297,SYN000034,loan_balance,NaN,,0.0,True
+342,SYN000211,loan_balance,null,,18777.81,True
+383,SYN007439,loan_balance,missing,,0.0,True
+470,SYN001954,loan_balance,NaN,,567218.33,True
+485,SYN006204,loan_balance, ,,60961.79,True
+547,SYN002952,loan_balance,NaN,,0.0,True
+682,SYN004172,loan_balance,NA,,2394954.665,True
+720,SYN002659,loan_balance, ,,0.0,True
+739,SYN005164,loan_balance,null,,0.0,True
+843,SYN003316,loan_balance,NA,,6728942.425,True
+989,SYN003811,loan_balance,,,567218.33,True
+1025,SYN008868,loan_balance, ,,0.0,True
+1053,SYN000976,loan_balance,not recorded,,18777.81,True
+1270,SYN007292,loan_balance,null,,18777.81,True
+1334,SYN002792,loan_balance,error,,0.0,True
+1385,SYN002134,loan_balance,null,,13078.03,True
+1387,SYN000074,loan_balance,N/A,,0.0,True
+1440,SYN007428,loan_balance,NA,,18777.81,True
+1456,SYN005951,loan_balance,not recorded,,29365160.0,True
+1556,SYN004613,loan_balance,NA,,522500.57,True
+1580,SYN005290,loan_balance,missing,,2298595.0,True
+1629,SYN005743,loan_balance, ,,180799625.0,True
+1752,SYN003493,loan_balance,null,,6629946.425,True
+1872,SYN007295,loan_balance,null,,0.0,True
+1879,SYN004072,loan_balance,unknown,,0.0,True
+1910,SYN006917,loan_balance,NaN,,0.0,True
+1955,SYN009247,loan_balance,,,0.0,True
+2027,SYN000926,loan_balance,unknown,,0.0,True
+2057,SYN006725,loan_balance,NaN,,6629946.425,True
+2104,SYN001259,loan_balance,NA,,82897720.0,True
+2110,SYN001354,loan_balance,error,,0.0,True
+2143,SYN003475,loan_balance,not recorded,,18777.81,True
+2149,SYN001613,loan_balance,null,,0.0,True
+2423,SYN001459,loan_balance,N/A,,0.0,True
+2460,SYN006003,loan_balance, ,,0.0,True
+2652,SYN005022,loan_balance,not recorded,,17794580.0,True
+2718,SYN005238,loan_balance,N/A,,0.0,True
+2759,SYN000466,loan_balance, ,,1557850.83,True
+2774,SYN006724,loan_balance,NaN,,0.0,True
+2887,SYN004009,loan_balance,unknown,,6728942.425,True
+2919,SYN007726,loan_balance, ,,0.0,True
+3006,SYN009494,loan_balance,not recorded,,17794580.0,True
+3129,SYN005429,loan_balance,null,,0.0,True
+3438,SYN000721,loan_balance,missing,,0.0,True
+3443,SYN000460,loan_balance,null,,,False
+3502,SYN001529,loan_balance,NA,,33560657.89,True
+3513,SYN001336,loan_balance,N/A,,1790576.35,True
+3562,SYN007498,loan_balance,NA,,140220.5,True
+3568,SYN007535,loan_balance,N/A,,0.0,True
+3573,SYN004061,loan_balance,NA,,0.0,True
+3654,SYN007420,loan_balance,error,,0.0,True
+3659,SYN006974,loan_balance, ,,14567125.0,True
+3693,SYN001378,loan_balance,missing,,24902.52,True
+3705,SYN000552,loan_balance,N/A,,2298595.0,True
+3754,SYN001666,loan_balance,missing,,0.0,True
+3857,SYN004108,loan_balance,missing,,0.0,True
+3875,SYN006216,loan_balance,,,0.0,True
+3877,SYN002835,loan_balance,N/A,,0.0,True
+3964,SYN008724,loan_balance,unknown,,14567125.0,True
+3997,SYN006028,loan_balance, ,,17794580.0,True
+4044,SYN007361,loan_balance,null,,2298595.0,True
+4050,SYN006287,loan_balance,,,1790576.35,True
+4126,SYN008228,loan_balance,N/A,,0.0,True
+4200,SYN008000,loan_balance,missing,,567218.33,True
+4220,SYN003851,loan_balance,null,,0.0,True
+4244,SYN001745,loan_balance,missing,,0.0,True
+4367,SYN004486,loan_balance,null,,0.0,True
+4376,SYN009097,loan_balance,abc,,0.0,True
+4412,SYN009003,loan_balance,,,56742333.33,True
+4423,SYN006444,loan_balance,N/A,,567218.33,True
+4442,SYN003360,loan_balance,unknown,,0.0,True
+4444,SYN004591,loan_balance, ,,0.0,True
+4451,SYN002178,loan_balance,NaN,,0.0,True
+4585,SYN006255,loan_balance,missing,,0.0,True
+4700,SYN003646,loan_balance,NaN,,13078.03,True
+4718,SYN008284,loan_balance,unknown,,0.0,True
+4752,SYN002297,loan_balance, ,,0.0,True
+5168,SYN000736,loan_balance,NaN,,28342.58,True
+5190,SYN002035,loan_balance,abc,,17794580.0,True
+5227,SYN003952,loan_balance,N/A,,82897720.0,True
+5333,SYN003212,loan_balance,N/A,,0.0,True
+5337,SYN003285,loan_balance,missing,,4855.74,True
+5369,SYN006494,loan_balance,missing,,0.0,True
+5387,SYN008908,loan_balance,missing,,24902.52,True
+5432,SYN005804,loan_balance,,,2298595.0,True
+5579,SYN003305,loan_balance,NaN,,0.0,True
+5582,SYN004004,loan_balance,error,,0.0,True
+5596,SYN008920,loan_balance,,,0.0,True
+5601,SYN000425,loan_balance,abc,,127441.525,True
+5651,SYN003858,loan_balance,null,,1649385.885,True
+5750,SYN006000,loan_balance,,,6728942.425,True
+5759,SYN000795,loan_balance,,,18777.81,True
+5917,SYN004281,loan_balance,NA,,0.0,True
+6000,SYN004405,loan_balance, ,,0.0,True
+6108,SYN008846,loan_balance,NA,,0.0,True
+6112,SYN008791,loan_balance,NA,,0.0,True
+6149,SYN003217,loan_balance, ,,1649385.885,True
+6239,SYN001861,loan_balance,null,,0.0,True
+6276,SYN008381,loan_balance,abc,,29365160.0,True
+6313,SYN005381,loan_balance,N/A,,0.0,True
+6597,SYN007245,loan_balance,NA,,0.0,True
+6605,SYN007198,loan_balance, ,,,False
+6646,SYN000040,loan_balance,error,,0.0,True
+6671,SYN000674,loan_balance,,,140220.5,True
+6689,SYN004189,loan_balance,,,2394954.665,True
+6717,SYN005179,loan_balance,NA,,6629946.425,True
+6819,SYN005005,loan_balance,missing,,82897720.0,True
+6850,SYN001302,loan_balance,,,115158.09,True
+6915,SYN007031,loan_balance,N/A,,0.0,True
+6927,SYN000567,loan_balance,unknown,,0.0,True
+7032,SYN000505,loan_balance,missing,,0.0,True
+7156,SYN004408,loan_balance,null,,0.0,True
+7166,SYN003721,loan_balance,null,,0.0,True
+7243,SYN005770,loan_balance,null,,0.0,True
+7245,SYN000321,loan_balance, ,,0.0,True
+7281,SYN009538,loan_balance,N/A,,82897720.0,True
+7310,SYN007285,loan_balance,unknown,,0.0,True
+7317,SYN006824,loan_balance,missing,,0.0,True
+7496,SYN000256,loan_balance,N/A,,1557850.83,True
+7660,SYN008685,loan_balance,N/A,,0.0,True
+7886,SYN002593,loan_balance,unknown,,0.0,True
+7992,SYN008409,loan_balance, ,,13078.03,True
+8000,SYN008041,loan_balance,N/A,,0.0,True
+8001,SYN003232,loan_balance,NA,,14567125.0,True
+8117,SYN004470,loan_balance,NaN,,32815.69,True
+8191,SYN007228,loan_balance,,,4979.51,True
+8288,SYN000335,loan_balance,missing,,0.0,True
+8300,SYN001645,loan_balance,not recorded,,32815.69,True
+8310,SYN007290,loan_balance,abc,,0.0,True
+8329,SYN007337,loan_balance,,,0.0,True
+8383,SYN004364,loan_balance,N/A,,0.0,True
+8561,SYN006755,loan_balance,missing,,0.0,True
+8581,SYN003031,loan_balance,null,,0.0,True
+8718,SYN006865,loan_balance, ,,0.0,True
+8726,SYN001773,loan_balance,missing,,0.0,True
+8732,SYN007505,loan_balance,null,,0.0,True
+8840,SYN000849,loan_balance, ,,0.0,True
+8856,SYN000282,loan_balance,missing,,18777.81,True
+8898,SYN004248,loan_balance,null,,180799625.0,True
+9012,SYN001822,loan_balance,null,,0.0,True
+9064,SYN001861,loan_balance,null,,0.0,True
+9200,SYN005803,loan_balance,NaN,,2394954.665,True
+9262,SYN001095,loan_balance,NaN,,0.0,True
+9380,SYN005319,loan_balance,NA,,2298595.0,True
+9387,SYN004499,loan_balance, ,,2298595.0,True
+9465,SYN009676,loan_balance,,,115158.09,True
+9481,SYN000874,loan_balance,NA,,0.0,True
+9493,SYN008783,loan_balance,NaN,,0.0,True
+9558,SYN000960,loan_balance,NaN,,522500.57,True
+9619,SYN006173,loan_balance, ,,17794580.0,True
+9683,SYN003246,loan_balance,,,0.0,True
+9685,SYN001618,loan_balance,N/A,,0.0,True
+9727,SYN008121,loan_balance,unknown,,29365160.0,True
+9787,SYN000158,loan_balance,,,0.0,True
+9817,SYN002352,loan_balance,NA,,0.0,True
+9858,SYN007446,loan_balance,,,0.0,True
+23,SYN003866,stocks,null,,0.0,True
+66,SYN006047,stocks,unknown,,0.0,True
+110,SYN000842,stocks,missing,,0.0,True
+111,SYN009172,stocks, ,,0.0,True
+202,SYN008786,stocks,,,0.0,True
+234,SYN000441,stocks,NA,,0.0,True
+238,SYN009426,stocks,N/A,,0.0,True
+392,SYN002672,stocks,,,0.0,True
+430,SYN006827,stocks,,,0.0,True
+456,SYN002616,stocks,N/A,,0.0,True
+476,SYN007548,stocks,N/A,,0.0,True
+483,SYN008995,stocks,null,,0.0,True
+577,SYN004575,stocks,abc,,0.0,True
+605,SYN005573,stocks,null,,0.0,True
+674,SYN002126,stocks, ,,0.0,True
+697,SYN005950,stocks,N/A,,0.0,True
+698,SYN001295,stocks,N/A,,0.0,True
+745,SYN004904,stocks,null,,0.0,True
+813,SYN001826,stocks,null,,0.0,True
+889,SYN000100,stocks,error,,0.0,True
+913,SYN008292,stocks,NaN,,0.0,True
+921,SYN005692,stocks, ,,0.0,True
+959,SYN003476,stocks,N/A,,0.0,True
+995,SYN001964,stocks,null,,0.0,True
+1015,SYN006482,stocks,not recorded,,0.0,True
+1050,SYN001846,stocks,unknown,,0.0,True
+1051,SYN007976,stocks,not recorded,,0.0,True
+1088,SYN005808,stocks,null,,0.0,True
+1106,SYN000453,stocks,N/A,,0.0,True
+1158,SYN000648,stocks,NA,,0.0,True
+1293,SYN004540,stocks,NA,,0.0,True
+1327,SYN005360,stocks,missing,,0.0,True
+1360,SYN001715,stocks,,,0.0,True
+1403,SYN009138,stocks,null,,0.0,True
+1457,SYN002085,stocks,NA,,0.0,True
+1481,SYN008163,stocks,error,,,False
+1572,SYN007669,stocks,NA,,0.0,True
+1823,SYN000636,stocks,null,,0.0,True
+1901,SYN006664,stocks,missing,,0.0,True
+1962,SYN004928,stocks, ,,0.0,True
+1986,SYN002260,stocks,error,,0.0,True
+2053,SYN002984,stocks,missing,,0.0,True
+2106,SYN006701,stocks,abc,,,False
+2204,SYN003684,stocks,N/A,,0.0,True
+2302,SYN006773,stocks,N/A,,0.0,True
+2367,SYN007096,stocks,null,,0.0,True
+2395,SYN007927,stocks,unknown,,0.0,True
+2398,SYN003647,stocks,N/A,,0.0,True
+2531,SYN008445,stocks,unknown,,0.0,True
+2551,SYN003369,stocks,,,0.0,True
+2590,SYN000812,stocks,NaN,,0.0,True
+2678,SYN009520,stocks, ,,0.0,True
+2682,SYN001414,stocks,NA,,0.0,True
+2786,SYN009455,stocks,NaN,,0.0,True
+2807,SYN002992,stocks,null,,0.0,True
+2861,SYN006601,stocks,,,0.0,True
+2957,SYN000174,stocks,not recorded,,0.0,True
+3027,SYN004514,stocks,missing,,0.0,True
+3101,SYN002238,stocks,NA,,0.0,True
+3123,SYN004091,stocks,NA,,0.0,True
+3159,SYN003695,stocks,missing,,0.0,True
+3204,SYN009218,stocks, ,,0.0,True
+3405,SYN005865,stocks,,,0.0,True
+3445,SYN007434,stocks,abc,,0.0,True
+3477,SYN009517,stocks,N/A,,6691.7,True
+3498,SYN001706,stocks,NaN,,0.0,True
+3503,SYN009520,stocks, ,,0.0,True
+3731,SYN008237,stocks, ,,0.0,True
+3777,SYN000435,stocks,NA,,0.0,True
+3819,SYN008978,stocks,N/A,,0.0,True
+3851,SYN008615,stocks,N/A,,0.0,True
+3911,SYN006192,stocks,N/A,,0.0,True
+3988,SYN001423,stocks, ,,0.0,True
+4142,SYN007687,stocks,null,,0.0,True
+4179,SYN001046,stocks,not recorded,,0.0,True
+4412,SYN009003,stocks,NA,,0.0,True
+4417,SYN003586,stocks,missing,,0.0,True
+4426,SYN004187,stocks,abc,,0.0,True
+4430,SYN003500,stocks,error,,0.0,True
+4496,SYN003845,stocks,N/A,,0.0,True
+4535,SYN009151,stocks,,,,False
+4623,SYN000177,stocks,NA,,6691.7,True
+4652,SYN008148,stocks,NaN,,0.0,True
+4668,SYN008844,stocks,NA,,0.0,True
+4676,SYN000892,stocks,null,,0.0,True
+4677,SYN005305,stocks, ,,0.0,True
+4713,SYN003365,stocks,NA,,0.0,True
+4724,SYN002479,stocks,error,,0.0,True
+4729,SYN008515,stocks,error,,0.0,True
+4963,SYN004271,stocks,missing,,0.0,True
+4993,SYN004810,stocks,missing,,0.0,True
+5000,SYN007652,stocks,,,0.0,True
+5098,SYN003525,stocks,null,,0.0,True
+5127,SYN004002,stocks,NA,,0.0,True
+5139,SYN000422,stocks,null,,0.0,True
+5408,SYN006117,stocks,NaN,,0.0,True
+5457,SYN007832,stocks,abc,,0.0,True
+5459,SYN006283,stocks,abc,,0.0,True
+5483,SYN009647,stocks, ,,0.0,True
+5530,SYN005212,stocks,null,,0.0,True
+5533,SYN001984,stocks,null,,0.0,True
+5664,SYN007287,stocks, ,,0.0,True
+5706,SYN006930,stocks,NA,,0.0,True
+5739,SYN001719,stocks,missing,,0.0,True
+5898,SYN001018,stocks,unknown,,0.0,True
+6012,SYN001355,stocks,abc,,0.0,True
+6107,SYN002477,stocks,null,,0.0,True
+6183,SYN004995,stocks,NA,,0.0,True
+6202,SYN000623,stocks,N/A,,0.0,True
+6295,SYN008708,stocks,N/A,,0.0,True
+6319,SYN003991,stocks,missing,,0.0,True
+6369,SYN002061,stocks,N/A,,0.0,True
+6378,SYN000195,stocks, ,,0.0,True
+6383,SYN001040,stocks,N/A,,0.0,True
+6406,SYN008776,stocks,error,,0.0,True
+6494,SYN009508,stocks,N/A,,0.0,True
+6528,SYN002350,stocks,missing,,0.0,True
+6572,SYN005979,stocks,abc,,0.0,True
+6950,SYN001762,stocks, ,,0.0,True
+6976,SYN004968,stocks,error,,0.0,True
+7116,SYN006061,stocks, ,,0.0,True
+7170,SYN008740,stocks,missing,,0.0,True
+7310,SYN007285,stocks,unknown,,0.0,True
+7313,SYN008752,stocks,N/A,,0.0,True
+7409,SYN005007,stocks,error,,0.0,True
+7575,SYN005870,stocks,missing,,0.0,True
+7712,SYN002262,stocks, ,,0.0,True
+7882,SYN001986,stocks,,,0.0,True
+8028,SYN009593,stocks,null,,0.0,True
+8048,SYN001651,stocks,NA,,0.0,True
+8132,SYN001380,stocks, ,,0.0,True
+8163,SYN006925,stocks,N/A,,0.0,True
+8183,SYN008547,stocks, ,,0.0,True
+8200,SYN004774,stocks,N/A,,0.0,True
+8207,SYN003745,stocks, ,,6691.7,True
+8238,SYN000822,stocks,null,,0.0,True
+8273,SYN004579,stocks,,,0.0,True
+8307,SYN008514,stocks,null,,0.0,True
+8321,SYN005872,stocks, ,,0.0,True
+8328,SYN002557,stocks,error,,0.0,True
+8431,SYN004578,stocks,error,,0.0,True
+8456,SYN004103,stocks,NaN,,0.0,True
+8466,SYN009666,stocks,N/A,,0.0,True
+8513,SYN000406,stocks,N/A,,0.0,True
+8520,SYN003221,stocks,,,0.0,True
+8563,SYN006577,stocks, ,,0.0,True
+8658,SYN001376,stocks,null,,0.0,True
+8677,SYN008811,stocks, ,,0.0,True
+8682,SYN009268,stocks,NA,,0.0,True
+8725,SYN000903,stocks,NaN,,0.0,True
+8843,SYN003363,stocks,NA,,0.0,True
+8949,SYN002305,stocks,unknown,,0.0,True
+9049,SYN005927,stocks, ,,0.0,True
+9126,SYN004120,stocks,NaN,,0.0,True
+9132,SYN000825,stocks, ,,0.0,True
+9319,SYN000249,stocks,,,0.0,True
+9336,SYN007182,stocks,NA,,0.0,True
+9348,SYN002402,stocks,unknown,,0.0,True
+9418,SYN002915,stocks,missing,,0.0,True
+9490,SYN005161,stocks,NA,,0.0,True
+9571,SYN009671,stocks, ,,0.0,True
+9589,SYN004892,stocks,null,,0.0,True
+9594,SYN001189,stocks,null,,0.0,True
+9661,SYN007958,stocks,missing,,0.0,True
+9756,SYN006007,stocks,abc,,0.0,True
+9798,SYN004385,stocks,missing,,0.0,True
+9873,SYN000375,stocks,N/A,,0.0,True
+9911,SYN000242,stocks,null,,0.0,True
+13,SYN002566,mutual_funds,error,,0.0,True
+85,SYN000323,mutual_funds,N/A,,0.0,True
+146,SYN000281,mutual_funds,null,,0.0,True
+148,SYN007922,mutual_funds,,,0.0,True
+211,SYN004442,mutual_funds, ,,0.0,True
+340,SYN004028,mutual_funds,unknown,,0.0,True
+360,SYN002474,mutual_funds,missing,,0.0,True
+435,SYN001875,mutual_funds,NaN,,0.0,True
+584,SYN004589,mutual_funds,null,,0.0,True
+603,SYN008064,mutual_funds,unknown,,0.0,True
+627,SYN001163,mutual_funds,unknown,,0.0,True
+684,SYN000835,mutual_funds,abc,,0.0,True
+703,SYN004020,mutual_funds,unknown,,0.0,True
+758,SYN007204,mutual_funds,null,,0.0,True
+759,SYN003061,mutual_funds, ,,0.0,True
+812,SYN005455,mutual_funds,NaN,,0.0,True
+839,SYN007789,mutual_funds, ,,0.0,True
+875,SYN009430,mutual_funds,,,0.0,True
+892,SYN006751,mutual_funds,,,0.0,True
+1162,SYN003181,mutual_funds,unknown,,0.0,True
+1215,SYN001323,mutual_funds,,,0.0,True
+1414,SYN005340,mutual_funds,error,,0.0,True
+1444,SYN001521,mutual_funds,missing,,0.0,True
+1517,SYN007040,mutual_funds,NaN,,0.0,True
+1550,SYN007095,mutual_funds,not recorded,,0.0,True
+1569,SYN009120,mutual_funds,unknown,,0.0,True
+1576,SYN003623,mutual_funds,,,0.0,True
+1649,SYN005333,mutual_funds, ,,0.0,True
+1791,SYN007917,mutual_funds,N/A,,0.0,True
+1862,SYN007050,mutual_funds,,,0.0,True
+1892,SYN001483,mutual_funds, ,,0.0,True
+1941,SYN006988,mutual_funds,null,,0.0,True
+1988,SYN005347,mutual_funds,NaN,,0.0,True
+2077,SYN001106,mutual_funds,NA,,0.0,True
+2123,SYN005969,mutual_funds,null,,0.0,True
+2201,SYN009682,mutual_funds,NA,,0.0,True
+2243,SYN007370,mutual_funds, ,,0.0,True
+2247,SYN007277,mutual_funds,error,,0.0,True
+2257,SYN000544,mutual_funds,not recorded,,0.0,True
+2373,SYN003658,mutual_funds,null,,0.0,True
+2381,SYN004967,mutual_funds,NaN,,0.0,True
+2391,SYN006730,mutual_funds, ,,0.0,True
+2424,SYN007978,mutual_funds,N/A,,0.0,True
+2449,SYN000123,mutual_funds,NaN,,0.0,True
+2483,SYN008410,mutual_funds,not recorded,,0.0,True
+2632,SYN009209,mutual_funds,missing,,0.0,True
+2652,SYN005022,mutual_funds,N/A,,0.0,True
+2719,SYN003477,mutual_funds,missing,,0.0,True
+2767,SYN003028,mutual_funds,null,,0.0,True
+2819,SYN005299,mutual_funds,missing,,0.0,True
+2840,SYN007416,mutual_funds,missing,,0.0,True
+2888,SYN005423,mutual_funds,NaN,,0.0,True
+2932,SYN009506,mutual_funds,missing,,0.0,True
+2952,SYN004051,mutual_funds,NA,,0.0,True
+2961,SYN008016,mutual_funds,,,0.0,True
+2964,SYN004314,mutual_funds, ,,0.0,True
+3077,SYN004069,mutual_funds,N/A,,0.0,True
+3132,SYN002468,mutual_funds,NA,,0.0,True
+3196,SYN001120,mutual_funds,N/A,,0.0,True
+3232,SYN006069,mutual_funds,missing,,0.0,True
+3240,SYN003505,mutual_funds,NaN,,0.0,True
+3289,SYN005786,mutual_funds,,,0.0,True
+3298,SYN000484,mutual_funds,null,,0.0,True
+3436,SYN007508,mutual_funds,abc,,0.0,True
+3460,SYN004615,mutual_funds,NaN,,0.0,True
+3609,SYN002320,mutual_funds,N/A,,0.0,True
+3627,SYN008469,mutual_funds,,,16562.51,True
+3643,SYN002613,mutual_funds,NA,,0.0,True
+3745,SYN005856,mutual_funds,missing,,0.0,True
+3771,SYN001656,mutual_funds,NA,,0.0,True
+3781,SYN002064,mutual_funds,NaN,,0.0,True
+3794,SYN009530,mutual_funds, ,,0.0,True
+3983,SYN001361,mutual_funds,missing,,0.0,True
+4002,SYN006016,mutual_funds,NA,,0.0,True
+4014,SYN007791,mutual_funds,error,,0.0,True
+4032,SYN002806,mutual_funds,N/A,,0.0,True
+4073,SYN009291,mutual_funds,,,0.0,True
+4093,SYN007751,mutual_funds,NaN,,0.0,True
+4098,SYN009217,mutual_funds, ,,0.0,True
+4102,SYN009050,mutual_funds,not recorded,,0.0,True
+4179,SYN001046,mutual_funds,null,,0.0,True
+4281,SYN006525,mutual_funds,NaN,,0.0,True
+4329,SYN007682,mutual_funds,N/A,,0.0,True
+4422,SYN006364,mutual_funds, ,,0.0,True
+4492,SYN005013,mutual_funds,NaN,,0.0,True
+4556,SYN006861,mutual_funds,,,0.0,True
+4570,SYN001930,mutual_funds, ,,0.0,True
+4619,SYN004255,mutual_funds,missing,,0.0,True
+4628,SYN001183,mutual_funds,N/A,,0.0,True
+4759,SYN003429,mutual_funds,,,0.0,True
+4924,SYN006533,mutual_funds,unknown,,0.0,True
+5000,SYN007652,mutual_funds, ,,0.0,True
+5012,SYN005923,mutual_funds, ,,0.0,True
+5207,SYN004476,mutual_funds,,,0.0,True
+5208,SYN005476,mutual_funds,NA,,0.0,True
+5278,SYN005707,mutual_funds,not recorded,,0.0,True
+5307,SYN005594,mutual_funds, ,,0.0,True
+5335,SYN007189,mutual_funds,NA,,0.0,True
+5367,SYN008224,mutual_funds,NA,,0.0,True
+5542,SYN006621,mutual_funds,not recorded,,0.0,True
+5588,SYN007897,mutual_funds,not recorded,,0.0,True
+5603,SYN007846,mutual_funds,NA,,0.0,True
+5606,SYN007432,mutual_funds,NaN,,0.0,True
+5702,SYN001364,mutual_funds,NaN,,0.0,True
+5720,SYN006293,mutual_funds,N/A,,0.0,True
+5721,SYN000775,mutual_funds,null,,0.0,True
+5740,SYN008911,mutual_funds,unknown,,0.0,True
+5789,SYN000459,mutual_funds,missing,,0.0,True
+5888,SYN009014,mutual_funds,NaN,,0.0,True
+5909,SYN008988,mutual_funds,missing,,0.0,True
+5930,SYN006346,mutual_funds, ,,0.0,True
+6049,SYN005210,mutual_funds, ,,0.0,True
+6108,SYN008846,mutual_funds,unknown,,0.0,True
+6130,SYN001237,mutual_funds,NaN,,0.0,True
+6321,SYN008186,mutual_funds,N/A,,0.0,True
+6345,SYN007456,mutual_funds,not recorded,,0.0,True
+6354,SYN008502,mutual_funds,,,0.0,True
+6363,SYN007288,mutual_funds,missing,,0.0,True
+6428,SYN000493,mutual_funds,,,0.0,True
+6494,SYN009508,mutual_funds,,,0.0,True
+6590,SYN005589,mutual_funds,NaN,,0.0,True
+6696,SYN004341,mutual_funds,NaN,,0.0,True
+6713,SYN003713,mutual_funds,NaN,,0.0,True
+6743,SYN000116,mutual_funds,missing,,0.0,True
+6783,SYN009546,mutual_funds,N/A,,0.0,True
+6842,SYN001116,mutual_funds,null,,0.0,True
+6937,SYN000389,mutual_funds,null,,0.0,True
+6950,SYN001762,mutual_funds,not recorded,,0.0,True
+6995,SYN006935,mutual_funds,N/A,,0.0,True
+7011,SYN007897,mutual_funds,not recorded,,0.0,True
+7075,SYN003432,mutual_funds,NA,,0.0,True
+7085,SYN005742,mutual_funds, ,,0.0,True
+7092,SYN006414,mutual_funds,NA,,0.0,True
+7180,SYN003873,mutual_funds, ,,0.0,True
+7243,SYN005770,mutual_funds,null,,0.0,True
+7258,SYN007310,mutual_funds,NaN,,0.0,True
+7324,SYN007957,mutual_funds,N/A,,0.0,True
+7334,SYN002582,mutual_funds,unknown,,0.0,True
+7454,SYN006040,mutual_funds,not recorded,,0.0,True
+7476,SYN008482,mutual_funds,missing,,0.0,True
+7495,SYN009346,mutual_funds,missing,,0.0,True
+7560,SYN008270,mutual_funds,NA,,0.0,True
+7679,SYN008291,mutual_funds,missing,,0.0,True
+7705,SYN006016,mutual_funds,NA,,0.0,True
+7738,SYN000103,mutual_funds,missing,,0.0,True
+7773,SYN005129,mutual_funds,unknown,,0.0,True
+7955,SYN004255,mutual_funds,missing,,0.0,True
+8179,SYN000543,mutual_funds,null,,0.0,True
+8182,SYN007828,mutual_funds,missing,,0.0,True
+8197,SYN009114,mutual_funds,unknown,,0.0,True
+8276,SYN008954,mutual_funds,NA,,0.0,True
+8354,SYN006213,mutual_funds,NaN,,0.0,True
+8442,SYN008042,mutual_funds, ,,0.0,True
+8482,SYN000816,mutual_funds,null,,0.0,True
+8489,SYN001061,mutual_funds,missing,,0.0,True
+8491,SYN003048,mutual_funds,N/A,,0.0,True
+8599,SYN000185,mutual_funds,NA,,0.0,True
+8631,SYN008150,mutual_funds,abc,,0.0,True
+8632,SYN003352,mutual_funds,N/A,,0.0,True
+8740,SYN008259,mutual_funds,unknown,,0.0,True
+8747,SYN008151,mutual_funds, ,,0.0,True
+8792,SYN007719,mutual_funds,N/A,,0.0,True
+8901,SYN000157,mutual_funds,abc,,0.0,True
+8915,SYN008327,mutual_funds,NaN,,0.0,True
+9023,SYN003657,mutual_funds,,,0.0,True
+9180,SYN004107,mutual_funds,missing,,0.0,True
+9183,SYN006197,mutual_funds,NA,,0.0,True
+9251,SYN007525,mutual_funds,null,,0.0,True
+9277,SYN008945,mutual_funds,null,,0.0,True
+9344,SYN000956,mutual_funds,,,0.0,True
+9531,SYN004066,mutual_funds,unknown,,0.0,True
+9589,SYN004892,mutual_funds,not recorded,,0.0,True
+9678,SYN002600,mutual_funds,null,,0.0,True
+9692,SYN009327,mutual_funds,missing,,0.0,True
+9728,SYN007006,mutual_funds,NaN,,0.0,True
+9759,SYN009080,mutual_funds, ,,0.0,True
+9795,SYN003406,mutual_funds,NaN,,0.0,True
+9815,SYN007978,mutual_funds,N/A,,0.0,True
+9855,SYN006066,mutual_funds,N/A,,0.0,True
+9880,SYN001270,mutual_funds,null,,0.0,True
+9995,SYN006358,mutual_funds,NaN,,0.0,True
+344,SYN007435,has_bitcoin,Y,,,False
+1538,SYN006264,has_bitcoin,N,,,False
+1589,SYN000769,has_bitcoin,N,,,False
+1763,SYN002663,has_bitcoin,Y,,,False
+1931,SYN008889,has_bitcoin,Y,,,False
+1964,SYN005178,has_bitcoin,Y,,,False
+2467,SYN008856,has_bitcoin,N,,,False
+2934,SYN006931,has_bitcoin,N,,,False
+3083,SYN007435,has_bitcoin,Y,,,False
+4865,SYN008193,has_bitcoin,Y,,,False
+6063,SYN009004,has_bitcoin,N,,,False
+6632,SYN007935,has_bitcoin,Y,,,False
+6893,SYN005612,has_bitcoin,Y,,,False
+6967,SYN004488,has_bitcoin,Y,,,False
+7050,SYN007942,has_bitcoin,Y,,,False
+7714,SYN004322,has_bitcoin,Y,,,False
+8553,SYN009562,has_bitcoin,N,,,False
+9688,SYN009009,has_bitcoin,N,,,False
+430,SYN006827,has_fixed_deposit,N,,,False
+668,SYN003864,has_fixed_deposit,Y,,,False
+2342,SYN006449,has_fixed_deposit,N,,,False
+3063,SYN001394,has_fixed_deposit,Y,,,False
+3885,SYN008976,has_fixed_deposit,Y,,,False
+4480,SYN006502,has_fixed_deposit,Y,,,False
+4989,SYN006037,has_fixed_deposit,N,,,False
+5758,SYN000468,has_fixed_deposit,N,,,False
+6388,SYN005043,has_fixed_deposit,Y,,,False
+6751,SYN001037,has_fixed_deposit,N,,,False
+7291,SYN009212,has_fixed_deposit,Y,,,False
+8236,SYN009446,has_fixed_deposit,N,,,False
+8413,SYN002079,has_fixed_deposit,N,,,False
+8895,SYN002703,has_fixed_deposit,Y,,,False
+9390,SYN001433,has_fixed_deposit,Y,,,False
+9451,SYN003147,has_fixed_deposit,N,,,False
+9548,SYN003224,has_fixed_deposit,Y,,,False
+9583,SYN002869,has_fixed_deposit,N,,,False
+9781,SYN000041,has_fixed_deposit,N,,,False
+9944,SYN004738,has_fixed_deposit,Y,,,False
+367,SYN008554,has_loan,Y,,,False
+1058,SYN000293,has_loan,N,,,False
+1220,SYN008862,has_loan,Y,,,False
+1302,SYN006217,has_loan,Y,,,False
+2013,SYN008610,has_loan,Y,,,False
+2585,SYN001193,has_loan,N,,,False
+2836,SYN000712,has_loan,N,,,False
+3741,SYN000294,has_loan,N,,,False
+3781,SYN002064,has_loan,N,,,False
+3862,SYN000666,has_loan,N,,,False
+4394,SYN009125,has_loan,N,,,False
+5703,SYN003309,has_loan,Y,,,False
+6075,SYN004377,has_loan,N,,,False
+6444,SYN005244,has_loan,Y,,,False
+6612,SYN000377,has_loan,N,,,False
+7312,SYN003620,has_loan,N,,,False
+7848,SYN003622,has_loan,Y,,,False
+7920,SYN003358,has_loan,N,,,False
+8421,SYN008109,has_loan,N,,,False
+9508,SYN007106,has_loan,N,,,False
+9593,SYN008784,has_loan,N,,,False
+9778,SYN006473,has_loan,N,,,False
+46,SYN003037,credit_card,N,,,False
+102,SYN004466,credit_card,Y,,,False
+436,SYN006078,credit_card,N,,,False
+1225,SYN007424,credit_card,Y,,,False
+1705,SYN003319,credit_card,Y,,,False
+2335,SYN005275,credit_card,Y,,,False
+3054,SYN001342,credit_card,Y,,,False
+3130,SYN008429,credit_card,N,,,False
+3887,SYN002431,credit_card,N,,,False
+4975,SYN006957,credit_card,Y,,,False
+5935,SYN000105,credit_card,Y,,,False
+6006,SYN002294,credit_card,Y,,,False
+6640,SYN003214,credit_card,Y,,,False
+7973,SYN003370,credit_card,Y,,,False
+8173,SYN007850,credit_card,N,,,False
+8236,SYN009446,credit_card,N,,,False
+8533,SYN005712,credit_card,Y,,,False
+9651,SYN004095,credit_card,Y,,,False
+9746,SYN007773,credit_card,Y,,,False
+9958,SYN000517,credit_card,Y,,,False
+194,SYN000498,active_member,Y,,,False
+297,SYN000034,active_member,N,,,False
+1058,SYN000293,active_member,N,,,False
+1541,SYN000798,active_member,N,,,False
+1752,SYN003493,active_member,Y,,,False
+1956,SYN002048,active_member,Y,,,False
+2078,SYN008253,active_member,Y,,,False
+2088,SYN004350,active_member,Y,,,False
+3237,SYN009043,active_member,Y,,,False
+3950,SYN005039,active_member,Y,,,False
+4350,SYN001901,active_member,Y,,,False
+5287,SYN004818,active_member,Y,,,False
+5302,SYN006671,active_member,Y,,,False
+5413,SYN006290,active_member,Y,,,False
+5862,SYN002530,active_member,Y,,,False
+6270,SYN003486,active_member,N,,,False
+6285,SYN008474,active_member,Y,,,False
+8075,SYN003876,active_member,N,,,False
+8806,SYN006076,active_member,N,,,False
+8995,SYN006965,active_member,N,,,False
+9773,SYN001765,active_member,Y,,,False
+9915,SYN006514,active_member,Y,,,False
+9963,SYN003252,active_member,Y,,,False
+367,SYN008554,churn,N,,,False
+1144,SYN000844,churn,N,,,False
+1470,SYN001088,churn,N,,,False
+2734,SYN003374,churn,N,,,False
+2860,SYN004822,churn,N,,,False
+3225,SYN001607,churn,N,,,False
+3918,SYN005785,churn,N,,,False
+4232,SYN000431,churn,N,,,False
+5382,SYN002453,churn,N,,,False
+5699,SYN008213,churn,N,,,False
+5739,SYN001719,churn,Y,,,False
+6046,SYN009589,churn,N,,,False
+6713,SYN003713,churn,Y,,,False
+6891,SYN009475,churn,N,,,False
+7242,SYN000913,churn,N,,,False
+7434,SYN002968,churn,Y,,,False
+8408,SYN006097,churn,N,,,False
+9133,SYN008910,churn,Y,,,False
+9823,SYN008367,churn,N,,,False
+4,SYN003648,industry,,,Unknown,True
+31,SYN008715,industry,,,Unknown,True
+34,SYN003664,industry,missing,,Unknown,True
+54,SYN003861,industry,,,Unknown,True
+89,SYN002183,industry,NaN,,Unknown,True
+166,SYN006119,industry,NaN,,Unknown,True
+205,SYN000067,industry,NaN,,Unknown,True
+300,SYN002478,industry,missing,,Unknown,True
+309,SYN005747,industry,NaN,,Unknown,True
+409,SYN007492,industry, ,,Unknown,True
+518,SYN003081,industry,missing,,Unknown,True
+680,SYN002230,industry,null,,Unknown,True
+777,SYN006872,industry,null,,Unknown,True
+787,SYN004859,industry,N/A,,Unknown,True
+870,SYN007144,industry, ,,Unknown,True
+909,SYN008318,industry,,,Unknown,True
+984,SYN003976,industry,null,,Unknown,True
+997,SYN003166,industry,N/A,,Unknown,True
+1003,SYN004585,industry,missing,,Unknown,True
+1028,SYN007561,industry, ,,Unknown,True
+1095,SYN003968,industry,NA,,Unknown,True
+1254,SYN005562,industry,NA,,Unknown,True
+1302,SYN006217,industry,NaN,,Unknown,True
+1330,SYN004764,industry,N/A,,Unknown,True
+1368,SYN000169,industry, ,,Unknown,True
+1414,SYN005340,industry,,,Unknown,True
+1429,SYN006140,industry, ,,Unknown,True
+1439,SYN006683,industry, ,,Unknown,True
+1464,SYN003094,industry,,,Unknown,True
+1490,SYN006271,industry,NA,,Unknown,True
+1525,SYN007318,industry,,,Unknown,True
+1527,SYN004300,industry,NA,,Unknown,True
+1760,SYN007653,industry,,,Unknown,True
+1814,SYN008414,industry,NaN,,Unknown,True
+1818,SYN006536,industry, ,,Unknown,True
+1989,SYN002161,industry,NA,,Unknown,True
+2228,SYN002473,industry,null,,Unknown,True
+2401,SYN002847,industry,N/A,,Unknown,True
+2449,SYN000123,industry,N/A,,Unknown,True
+2490,SYN000258,industry,null,,Unknown,True
+2689,SYN005192,industry,missing,,Unknown,True
+2691,SYN002736,industry,missing,,Unknown,True
+2704,SYN002872,industry,N/A,,Unknown,True
+2730,SYN000681,industry,,,Unknown,True
+2749,SYN007824,industry,,,Unknown,True
+2821,SYN001566,industry,N/A,,Unknown,True
+2862,SYN009429,industry,NA,,Unknown,True
+2866,SYN000662,industry,,,Unknown,True
+3106,SYN004670,industry,NaN,,Unknown,True
+3199,SYN003989,industry,N/A,,Unknown,True
+3236,SYN002717,industry,missing,,Unknown,True
+3264,SYN008286,industry, ,,Unknown,True
+3284,SYN002058,industry,NA,,Unknown,True
+3626,SYN006292,industry,NA,,Unknown,True
+3726,SYN005648,industry,null,,Unknown,True
+3844,SYN009213,industry,NA,,Unknown,True
+4072,SYN001721,industry,NA,,Unknown,True
+4106,SYN002363,industry,NA,,Unknown,True
+4119,SYN000925,industry,missing,,Unknown,True
+4172,SYN004894,industry,null,,Unknown,True
+4210,SYN001947,industry, ,,Unknown,True
+4277,SYN006805,industry,N/A,,Unknown,True
+4376,SYN009097,industry,NaN,,Unknown,True
+4444,SYN004591,industry,,,Unknown,True
+4469,SYN000863,industry,missing,,Unknown,True
+4510,SYN000909,industry, ,,Unknown,True
+4603,SYN007089,industry,NaN,,Unknown,True
+4892,SYN004178,industry,null,,Unknown,True
+4918,SYN002379,industry,NaN,,Unknown,True
+4939,SYN001028,industry,NaN,,Unknown,True
+5138,SYN006959,industry,N/A,,Unknown,True
+5171,SYN005761,industry,NaN,,Unknown,True
+5329,SYN004881,industry,null,,Unknown,True
+5364,SYN006709,industry,missing,,Unknown,True
+5402,SYN008274,industry,NaN,,Unknown,True
+5422,SYN007333,industry,N/A,,Unknown,True
+5520,SYN007512,industry,NaN,,Unknown,True
+5571,SYN002104,industry,null,,Unknown,True
+5583,SYN006822,industry,N/A,,Unknown,True
+5614,SYN000361,industry,,,Unknown,True
+5676,SYN006015,industry,NA,,Unknown,True
+5687,SYN004965,industry,NA,,Unknown,True
+5843,SYN004144,industry,missing,,Unknown,True
+6048,SYN007777,industry, ,,Unknown,True
+6079,SYN008223,industry,,,Unknown,True
+6129,SYN002993,industry,null,,Unknown,True
+6180,SYN008169,industry,null,,Unknown,True
+6379,SYN004859,industry,N/A,,Unknown,True
+6500,SYN003889,industry,N/A,,Unknown,True
+6658,SYN003802,industry,missing,,Unknown,True
+6752,SYN001657,industry,NaN,,Unknown,True
+7000,SYN005194,industry, ,,Unknown,True
+7100,SYN008258,industry,missing,,Unknown,True
+7186,SYN007103,industry,NA,,Unknown,True
+7319,SYN006718,industry,N/A,,Unknown,True
+7520,SYN001778,industry,NA,,Unknown,True
+7629,SYN008858,industry,missing,,Unknown,True
+7635,SYN004188,industry, ,,Unknown,True
+7754,SYN003641,industry, ,,Unknown,True
+7766,SYN004347,industry,N/A,,Unknown,True
+7864,SYN000870,industry, ,,Unknown,True
+7897,SYN000187,industry,missing,,Unknown,True
+8016,SYN006116,industry, ,,Unknown,True
+8093,SYN008842,industry, ,,Unknown,True
+8199,SYN004167,industry,NaN,,Unknown,True
+8255,SYN008196,industry,missing,,Unknown,True
+8260,SYN008405,industry,,,Unknown,True
+8292,SYN006081,industry,NA,,Unknown,True
+8345,SYN000577,industry,NaN,,Unknown,True
+8364,SYN006897,industry,null,,Unknown,True
+8414,SYN004005,industry,missing,,Unknown,True
+8471,SYN006976,industry,NaN,,Unknown,True
+8512,SYN007455,industry,NA,,Unknown,True
+8546,SYN009492,industry,NA,,Unknown,True
+8600,SYN008358,industry,N/A,,Unknown,True
+8707,SYN007303,industry, ,,Unknown,True
+8766,SYN009200,industry,NA,,Unknown,True
+8800,SYN003146,industry,missing,,Unknown,True
+8940,SYN007025,industry,NA,,Unknown,True
+9112,SYN000980,industry,missing,,Unknown,True
+9265,SYN006578,industry,NaN,,Unknown,True
+9490,SYN005161,industry,missing,,Unknown,True
+9525,SYN002073,industry,N/A,,Unknown,True
+9531,SYN004066,industry,NaN,,Unknown,True
+9551,SYN004050,industry,NaN,,Unknown,True
+9563,SYN003602,industry,missing,,Unknown,True
+9571,SYN009671,industry,,,Unknown,True
+9613,SYN005561,industry,N/A,,Unknown,True
+9651,SYN004095,industry,,,Unknown,True
+9666,SYN000930,industry,null,,Unknown,True
+9766,SYN000716,industry, ,,Unknown,True
+9804,SYN006345,industry,null,,Unknown,True
+9850,SYN009414,industry,NaN,,Unknown,True
+9854,SYN001849,industry,missing,,Unknown,True
+9911,SYN000242,industry,null,,Unknown,True
+31,SYN008715,employment_status,N/A,,Unknown,True
+129,SYN001399,employment_status,N/A,,Unknown,True
+146,SYN000281,employment_status,NA,,Unknown,True
+152,SYN009609,employment_status, ,,Unknown,True
+155,SYN004197,employment_status,null,,Unknown,True
+156,SYN000706,employment_status,NaN,,Unknown,True
+181,SYN006640,employment_status, ,,Unknown,True
+247,SYN004952,employment_status,null,,Unknown,True
+375,SYN002179,employment_status,missing,,Unknown,True
+397,SYN005344,employment_status,N/A,,Unknown,True
+476,SYN007548,employment_status,NaN,,Unknown,True
+553,SYN002053,employment_status,N/A,,Unknown,True
+562,SYN005377,employment_status,,,Unknown,True
+656,SYN008091,employment_status,NaN,,Unknown,True
+660,SYN008607,employment_status,,,Unknown,True
+670,SYN005487,employment_status,,,Unknown,True
+750,SYN006524,employment_status,,,Unknown,True
+848,SYN008801,employment_status,N/A,,Unknown,True
+881,SYN008613,employment_status,null,,Unknown,True
+893,SYN004022,employment_status,NA,,Unknown,True
+907,SYN002913,employment_status,null,,Unknown,True
+1039,SYN003487,employment_status,null,,Unknown,True
+1058,SYN000293,employment_status,,,Unknown,True
+1091,SYN008204,employment_status, ,,Unknown,True
+1132,SYN002564,employment_status,,,Unknown,True
+1182,SYN001209,employment_status,,,Unknown,True
+1327,SYN005360,employment_status,,,Unknown,True
+1426,SYN005591,employment_status, ,,Unknown,True
+1431,SYN001004,employment_status,NaN,,Unknown,True
+1433,SYN009595,employment_status,NA,,Unknown,True
+1521,SYN008082,employment_status,NaN,,Unknown,True
+1569,SYN009120,employment_status,null,,Unknown,True
+1572,SYN007669,employment_status,NA,,Unknown,True
+1619,SYN007515,employment_status,NaN,,Unknown,True
+1811,SYN008530,employment_status,,,Unknown,True
+1827,SYN008902,employment_status,N/A,,Unknown,True
+1892,SYN001483,employment_status,null,,Unknown,True
+1939,SYN008308,employment_status,missing,,Unknown,True
+2012,SYN002873,employment_status,missing,,Unknown,True
+2040,SYN004180,employment_status, ,,Unknown,True
+2120,SYN001965,employment_status,missing,,Unknown,True
+2135,SYN007145,employment_status,null,,Unknown,True
+2148,SYN009570,employment_status,NaN,,Unknown,True
+2187,SYN008998,employment_status,null,,Unknown,True
+2206,SYN001184,employment_status,null,,Unknown,True
+2218,SYN004577,employment_status,missing,,Unknown,True
+2311,SYN003288,employment_status,NaN,,Unknown,True
+2426,SYN001876,employment_status,NA,,Unknown,True
+2511,SYN002642,employment_status,,,Unknown,True
+2535,SYN007319,employment_status,null,,Unknown,True
+2610,SYN007611,employment_status,NA,,Unknown,True
+2700,SYN008369,employment_status,,,Unknown,True
+2782,SYN001258,employment_status,null,,Unknown,True
+2841,SYN008551,employment_status,NaN,,Unknown,True
+2879,SYN000550,employment_status,NaN,,Unknown,True
+3018,SYN001827,employment_status,missing,,Unknown,True
+3024,SYN006156,employment_status, ,,Unknown,True
+3046,SYN001824,employment_status,NaN,,Unknown,True
+3048,SYN007666,employment_status,NaN,,Unknown,True
+3060,SYN005073,employment_status,,,Unknown,True
+3136,SYN005492,employment_status,NA,,Unknown,True
+3176,SYN006880,employment_status,NA,,Unknown,True
+3550,SYN001823,employment_status,NaN,,Unknown,True
+3556,SYN000172,employment_status,null,,Unknown,True
+3686,SYN007551,employment_status,NA,,Unknown,True
+3725,SYN006951,employment_status, ,,Unknown,True
+3801,SYN003645,employment_status,NA,,Unknown,True
+3805,SYN005092,employment_status,missing,,Unknown,True
+3859,SYN003637,employment_status,NA,,Unknown,True
+3868,SYN000369,employment_status,,,Unknown,True
+4032,SYN002806,employment_status,NaN,,Unknown,True
+4081,SYN000993,employment_status,NA,,Unknown,True
+4090,SYN003718,employment_status,N/A,,Unknown,True
+4101,SYN006716,employment_status, ,,Unknown,True
+4105,SYN001441,employment_status, ,,Unknown,True
+4152,SYN002146,employment_status,,,Unknown,True
+4232,SYN000431,employment_status,,,Unknown,True
+4242,SYN002433,employment_status,missing,,Unknown,True
+4255,SYN008412,employment_status,missing,,Unknown,True
+4287,SYN002728,employment_status,N/A,,Unknown,True
+4316,SYN006898,employment_status,N/A,,Unknown,True
+4354,SYN009155,employment_status,NaN,,Unknown,True
+4510,SYN000909,employment_status, ,,Unknown,True
+4724,SYN002479,employment_status,,,Unknown,True
+4783,SYN002803,employment_status,NaN,,Unknown,True
+4820,SYN004857,employment_status,N/A,,Unknown,True
+4844,SYN002187,employment_status, ,,Unknown,True
+4911,SYN005669,employment_status,NA,,Unknown,True
+4946,SYN004495,employment_status,NA,,Unknown,True
+5036,SYN003536,employment_status, ,,Unknown,True
+5130,SYN002374,employment_status,N/A,,Unknown,True
+5219,SYN008977,employment_status,missing,,Unknown,True
+5316,SYN003760,employment_status, ,,Unknown,True
+5334,SYN002443,employment_status,missing,,Unknown,True
+5335,SYN007189,employment_status,missing,,Unknown,True
+5342,SYN005385,employment_status,null,,Unknown,True
+5384,SYN004124,employment_status,NaN,,Unknown,True
+5503,SYN000611,employment_status,NaN,,Unknown,True
+5511,SYN003206,employment_status,missing,,Unknown,True
+5653,SYN006440,employment_status,missing,,Unknown,True
+5659,SYN007441,employment_status,null,,Unknown,True
+5726,SYN003161,employment_status,,,Unknown,True
+5803,SYN002483,employment_status,NaN,,Unknown,True
+5812,SYN004726,employment_status,missing,,Unknown,True
+5815,SYN008128,employment_status, ,,Unknown,True
+5825,SYN008885,employment_status, ,,Unknown,True
+5925,SYN005829,employment_status,null,,Unknown,True
+6014,SYN004309,employment_status,missing,,Unknown,True
+6092,SYN002139,employment_status,N/A,,Unknown,True
+6178,SYN001561,employment_status,,,Unknown,True
+6363,SYN007288,employment_status,null,,Unknown,True
+6414,SYN002519,employment_status,,,Unknown,True
+6415,SYN008043,employment_status,NA,,Unknown,True
+6476,SYN001806,employment_status,NA,,Unknown,True
+6500,SYN003889,employment_status,N/A,,Unknown,True
+6529,SYN002367,employment_status,NaN,,Unknown,True
+6646,SYN000040,employment_status,missing,,Unknown,True
+6781,SYN004769,employment_status,missing,,Unknown,True
+6788,SYN003100,employment_status,N/A,,Unknown,True
+6912,SYN007582,employment_status,N/A,,Unknown,True
+6925,SYN002142,employment_status,NaN,,Unknown,True
+7101,SYN000345,employment_status,N/A,,Unknown,True
+7142,SYN006205,employment_status, ,,Unknown,True
+7152,SYN002542,employment_status,missing,,Unknown,True
+7186,SYN007103,employment_status,,,Unknown,True
+7288,SYN008132,employment_status,,,Unknown,True
+7297,SYN008401,employment_status,NA,,Unknown,True
+7307,SYN006651,employment_status,null,,Unknown,True
+7322,SYN009598,employment_status,NaN,,Unknown,True
+7478,SYN008620,employment_status,,,Unknown,True
+7535,SYN000710,employment_status,NA,,Unknown,True
+7556,SYN008371,employment_status,missing,,Unknown,True
+7614,SYN003171,employment_status, ,,Unknown,True
+7841,SYN007312,employment_status, ,,Unknown,True
+7862,SYN008130,employment_status,N/A,,Unknown,True
+7882,SYN001986,employment_status,NaN,,Unknown,True
+8021,SYN007254,employment_status,,,Unknown,True
+8075,SYN003876,employment_status,NA,,Unknown,True
+8085,SYN003419,employment_status,null,,Unknown,True
+8146,SYN000771,employment_status,null,,Unknown,True
+8196,SYN002226,employment_status,NaN,,Unknown,True
+8324,SYN002360,employment_status,,,Unknown,True
+8625,SYN003993,employment_status,missing,,Unknown,True
+8657,SYN001707,employment_status,,,Unknown,True
+8728,SYN001200,employment_status,null,,Unknown,True
+8759,SYN009206,employment_status,NA,,Unknown,True
+8925,SYN007717,employment_status,NA,,Unknown,True
+8951,SYN004425,employment_status, ,,Unknown,True
+8989,SYN005011,employment_status, ,,Unknown,True
+9086,SYN004177,employment_status,null,,Unknown,True
+9280,SYN007778,employment_status,null,,Unknown,True
+9361,SYN003003,employment_status,N/A,,Unknown,True
+9452,SYN006659,employment_status,null,,Unknown,True
+9537,SYN007011,employment_status,null,,Unknown,True
+9681,SYN008118,employment_status,,,Unknown,True
+9791,SYN001962,employment_status,,,Unknown,True
+9833,SYN009598,employment_status,NaN,,Unknown,True
+9883,SYN005732,employment_status, ,,Unknown,True

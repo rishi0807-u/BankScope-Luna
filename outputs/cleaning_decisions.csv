@@ -1,0 +1,35 @@
+column,missing,method,why,skew
+customer_id,0,leave,"Protected identity, outcome, provenance, exchange rate or binary field: keep missing and review; do not invent facts.",
+country,0,unknown,Use Unknown to preserve missingness; mode is available only when majority-category substitution is justified.,
+gender,128,unknown,Use Unknown to preserve missingness; mode is available only when majority-category substitution is justified.,
+age,211,median,Median is robust to skew/outliers. For discrete fields the result is rounded to a whole value.,0.006686847815070852
+tenure,228,median,Median is robust to skew/outliers. For discrete fields the result is rounded to a whole value.,0.6053401616330464
+credit_score,219,median,Median is robust to skew/outliers. For discrete fields the result is rounded to a whole value.,-0.07166522219787591
+currency,128,leave,"Protected identity, outcome, provenance, exchange rate or binary field: keep missing and review; do not invent facts.",
+fx_to_usd,0,leave,"Protected identity, outcome, provenance, exchange rate or binary field: keep missing and review; do not invent facts.",1.9641570819224023
+balance,159,group_median,"Money is skewed and currencies differ: use the median within each currency, never one pooled local-currency mean. All-missing groups stay missing.",77.45198271692499
+estimated_salary,161,group_median,"Money is skewed and currencies differ: use the median within each currency, never one pooled local-currency mean. All-missing groups stay missing.",51.16015959271735
+bitcoin_btc,176,leave,Missing holdings or contract terms are not evidence of zero ownership. Retain for review.,11.424577408432214
+bitcoin_price_usd,0,leave,"Protected identity, outcome, provenance, exchange rate or binary field: keep missing and review; do not invent facts.",0.0
+fixed_deposit,171,group_median,"Money is skewed and currencies differ: use the median within each currency, never one pooled local-currency mean. All-missing groups stay missing.",90.26730365935522
+fd_rate_pct,0,leave,Missing holdings or contract terms are not evidence of zero ownership. Retain for review.,0.8661814410349485
+fd_term_months,0,leave,Missing holdings or contract terms are not evidence of zero ownership. Retain for review.,1.4423387402078955
+loan_balance,165,group_median,"Money is skewed and currencies differ: use the median within each currency, never one pooled local-currency mean. All-missing groups stay missing.",16.172034294902147
+loan_type,0,unknown,Use Unknown to preserve missingness; mode is available only when majority-category substitution is justified.,
+loan_rate_pct,0,leave,Missing holdings or contract terms are not evidence of zero ownership. Retain for review.,0.6057408217756384
+stocks,174,group_median,"Money is skewed and currencies differ: use the median within each currency, never one pooled local-currency mean. All-missing groups stay missing.",35.32143326786553
+mutual_funds,186,group_median,"Money is skewed and currencies differ: use the median within each currency, never one pooled local-currency mean. All-missing groups stay missing.",22.015932019447558
+has_bitcoin,18,leave,"Protected identity, outcome, provenance, exchange rate or binary field: keep missing and review; do not invent facts.",0.745987930851701
+has_fixed_deposit,20,leave,"Protected identity, outcome, provenance, exchange rate or binary field: keep missing and review; do not invent facts.",0.15277112230020765
+has_loan,22,leave,"Protected identity, outcome, provenance, exchange rate or binary field: keep missing and review; do not invent facts.",-0.06097152160683919
+products_number,0,median,Median is robust to skew/outliers. For discrete fields the result is rounded to a whole value.,0.03908110734911831
+credit_card,20,leave,"Protected identity, outcome, provenance, exchange rate or binary field: keep missing and review; do not invent facts.",-0.9285254606390655
+active_member,24,leave,"Protected identity, outcome, provenance, exchange rate or binary field: keep missing and review; do not invent facts.",-0.6146045551931407
+churn,19,leave,"Protected identity, outcome, provenance, exchange rate or binary field: keep missing and review; do not invent facts.",1.4050565101069312
+industry,138,unknown,Use Unknown to preserve missingness; mode is available only when majority-category substitution is justified.,
+employment_status,160,unknown,Use Unknown to preserve missingness; mode is available only when majority-category substitution is justified.,
+account_type,0,unknown,Use Unknown to preserve missingness; mode is available only when majority-category substitution is justified.,
+banking_channel,0,unknown,Use Unknown to preserve missingness; mode is available only when majority-category substitution is justified.,
+risk_tolerance,0,unknown,Use Unknown to preserve missingness; mode is available only when majority-category substitution is justified.,
+snapshot_date,0,leave,"Protected identity, outcome, provenance, exchange rate or binary field: keep missing and review; do not invent facts.",
+data_origin,0,leave,"Protected identity, outcome, provenance, exchange rate or binary field: keep missing and review; do not invent facts.",

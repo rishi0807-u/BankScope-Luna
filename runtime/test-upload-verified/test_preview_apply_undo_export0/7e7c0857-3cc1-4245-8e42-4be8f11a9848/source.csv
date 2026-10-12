@@ -1,0 +1,4 @@
+CustomerId,Geography,Age,Churn,Balance,Currency,FXToUSD
+a,A,30,1,100,USD,1
+b,B,,0,0,USD,1
+c,A,50,,200,USD,1

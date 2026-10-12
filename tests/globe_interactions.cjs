@@ -1,0 +1,11 @@
+// Canvas interaction unit checks without a browser or external services.
+const fs=require('node:fs'),vm=require('node:vm'),assert=require('node:assert/strict');
+const context={console,Math,Set,Map,Promise,window:{},devicePixelRatio:1,requestAnimationFrame:()=>1,cancelAnimationFrame:()=>{},ResizeObserver:class{observe(){}disconnect(){}},fetch:async()=>({ok:true,json:async()=>JSON.parse(fs.readFileSync('web/vendor/countries-50m.json','utf8'))}),document:{getElementById:()=>null}};
+vm.createContext(context);
+for(const f of ['web/vendor/d3.min.js','web/vendor/topojson-client.min.js','web/globe.js'])vm.runInContext(fs.readFileSync(f,'utf8'),context);
+const canvasContext=new Proxy({createRadialGradient:()=>({addColorStop(){}})}, {get:(o,k)=>k in o?o[k]:()=>{},set:(o,k,v)=>(o[k]=v,true)});
+const listeners={},canvas={isConnected:true,style:{},parentElement:{getBoundingClientRect:()=>({width:600})},getBoundingClientRect:()=>({left:0,top:0}),getContext:()=>canvasContext,addEventListener:(event,fn)=>listeners[event]=fn,focus(){},setPointerCapture(){}};
+(async()=>{let picked=[],noData=[];const globe=await context.window.BankGlobe.mount({canvas,tooltip:{style:{}},available:['India','Germany','United States','Bahrain'],counts:[],current:'',onSelect:n=>picked.push(n),onUnavailable:n=>noData.push(n)});
+for(const country of ['India','Germany','United States','Bahrain']){globe.focus(country);listeners.pointerdown({clientX:300,clientY:252,pointerId:1});listeners.pointerup({clientX:300,clientY:252,pointerId:1});assert.equal(picked.at(-1),country)}
+const before=picked.length;listeners.pointerdown({clientX:300,clientY:252,pointerId:1});listeners.pointermove({clientX:400,clientY:252});listeners.pointerup({clientX:400,clientY:252,pointerId:1});assert.equal(picked.length,before,'drag must not select a country');
+listeners.wheel({preventDefault(){},deltaY:-100});listeners.keydown({key:'ArrowRight',preventDefault(){}});globe.focus('Australia');listeners.pointerdown({clientX:300,clientY:252,pointerId:1});listeners.pointerup({clientX:300,clientY:252,pointerId:1});assert.equal(noData.at(-1),'Australia');context.window.BankGlobe.destroy();console.log('Globe tests passed: country picking, small-country marker, drag threshold, zoom, keyboard and no-data selection.');})().catch(e=>{console.error(e);process.exitCode=1});

@@ -1,0 +1,53 @@
+{
+  "name": "uploaded.csv",
+  "mapping": {
+    "CustomerId": "customer_id",
+    "Geography": "country",
+    "Age": "age",
+    "Churn": "churn",
+    "Balance": "balance",
+    "Currency": "currency",
+    "FXToUSD": "fx_to_usd"
+  },
+  "audit": [
+    {
+      "timestamp": "2026-10-12T14:14:24.783173+00:00",
+      "column": "age",
+      "method": "normalize / validate",
+      "affected": 1,
+      "reason": "Text/null missing: 1; invalid: 0. Invalid values quarantined as missing; raw preserved."
+    },
+    {
+      "timestamp": "2026-10-12T14:14:24.783181+00:00",
+      "column": "churn",
+      "method": "normalize / validate",
+      "affected": 1,
+      "reason": "Text/null missing: 1; invalid: 0. Invalid values quarantined as missing; raw preserved."
+    },
+    {
+      "column": "all",
+      "method": "exact duplicate removal",
+      "affected": 0,
+      "reason": "Identical source rows only; conflicting IDs retained.",
+      "timestamp": "2026-10-12T14:14:24.793945+00:00"
+    },
+    {
+      "column": "age",
+      "method": "median",
+      "affected": 1,
+      "reason": "Median is robust to skew/outliers. For discrete fields the result is rounded to a whole value.",
+      "replacement": "40.0",
+      "timestamp": "2026-10-12T14:14:24.793945+00:00"
+    }
+  ],
+  "revision": 3,
+  "synthetic": false,
+  "sha256": "235b1aeae1ffee017be6d4166072b7db6b02d8716d445f6b140f7152e2b86a98",
+  "demo": false,
+  "working_numeric_columns": [
+    "age",
+    "churn",
+    "balance",
+    "fx_to_usd"
+  ]
+}

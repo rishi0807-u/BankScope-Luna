@@ -1,0 +1,5 @@
+customer_id,country,gender,reward_points,branch,postal_code
+001,india,F,10,South,00123
+002,USA,M,,North,00456
+003,,,30,South,00789
+003,,,30,South,00789

@@ -1,0 +1,72 @@
+{
+  "name": "my bank.csv",
+  "mapping": {
+    "Customer ID": "customer_id",
+    "Country Name": "country",
+    "Sex": "gender",
+    "Reward Points": "reward_points",
+    "Branch": "branch",
+    "Postal Code": "postal_code"
+  },
+  "audit": [
+    {
+      "timestamp": "2026-10-12T14:14:34.855051+00:00",
+      "column": "country",
+      "method": "normalize / validate",
+      "affected": 2,
+      "reason": "Text/null missing: 2; invalid: 0. Invalid values quarantined as missing; raw preserved."
+    },
+    {
+      "timestamp": "2026-10-12T14:14:34.855058+00:00",
+      "column": "gender",
+      "method": "normalize / validate",
+      "affected": 2,
+      "reason": "Text/null missing: 2; invalid: 0. Invalid values quarantined as missing; raw preserved."
+    },
+    {
+      "timestamp": "2026-10-12T14:14:34.855060+00:00",
+      "column": "reward_points",
+      "method": "normalize / validate",
+      "affected": 1,
+      "reason": "Text/null missing: 1; invalid: 0. Invalid values quarantined as missing; raw preserved."
+    },
+    {
+      "column": "all",
+      "method": "exact duplicate removal",
+      "affected": 1,
+      "reason": "Identical source rows only; conflicting IDs retained.",
+      "timestamp": "2026-10-12T14:14:34.878209+00:00"
+    },
+    {
+      "column": "country",
+      "method": "unknown",
+      "affected": 1,
+      "reason": "Use Unknown to preserve missingness; mode is available only when majority-category substitution is justified.",
+      "replacement": "Unknown",
+      "timestamp": "2026-10-12T14:14:34.878209+00:00"
+    },
+    {
+      "column": "gender",
+      "method": "unknown",
+      "affected": 1,
+      "reason": "Use Unknown to preserve missingness; mode is available only when majority-category substitution is justified.",
+      "replacement": "Unknown",
+      "timestamp": "2026-10-12T14:14:34.878209+00:00"
+    },
+    {
+      "column": "reward_points",
+      "method": "median",
+      "affected": 1,
+      "reason": "Median is robust to skew/outliers. For discrete fields the result is rounded to a whole value.",
+      "replacement": "20.0",
+      "timestamp": "2026-10-12T14:14:34.878209+00:00"
+    }
+  ],
+  "revision": 1,
+  "synthetic": false,
+  "sha256": "4a53c935a10402e52914a2fd474a6a3c247a750554c80194abf4fd49c4ae0a46",
+  "demo": false,
+  "working_numeric_columns": [
+    "reward_points"
+  ]
+}

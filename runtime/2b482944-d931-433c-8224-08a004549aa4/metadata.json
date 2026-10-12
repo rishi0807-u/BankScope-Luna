@@ -1,0 +1,41 @@
+{
+  "name": "bank_churn.csv",
+  "mapping": {
+    "customer_id": "customer_id",
+    "credit_score": "credit_score",
+    "country": "country",
+    "gender": "gender",
+    "age": "age",
+    "tenure": "tenure",
+    "balance": "balance",
+    "products_number": "products_number",
+    "credit_card": "credit_card",
+    "active_member": "active_member",
+    "estimated_salary": "estimated_salary",
+    "churn": "churn"
+  },
+  "audit": [
+    {
+      "column": "all",
+      "method": "exact duplicate removal",
+      "affected": 0,
+      "reason": "Identical source rows only; conflicting IDs retained.",
+      "timestamp": "2026-10-12T14:30:46.916200+00:00"
+    }
+  ],
+  "revision": 1,
+  "synthetic": false,
+  "sha256": "90f6625c31bdfcb0cde3b94c4f3004e43795e382921d0a5be67c4bd490b38818",
+  "demo": false,
+  "working_numeric_columns": [
+    "credit_score",
+    "age",
+    "tenure",
+    "balance",
+    "products_number",
+    "credit_card",
+    "active_member",
+    "estimated_salary",
+    "churn"
+  ]
+}
